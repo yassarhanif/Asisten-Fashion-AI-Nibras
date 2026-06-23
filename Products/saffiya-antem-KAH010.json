@@ -1,0 +1,64 @@
+{
+  "product_id": "KAH010",
+  "name_product": "SAFFIYA ANTEM",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Khimar",
+  "description": "<p><span style=\"color: rgb(96, 96, 96);\">Bahan Mosscrepe Karakteristik kainnya adalah cukup tebal, rabaannya halus, tidak menerawang dan tergolong kain yang jatuh</span></p><p><br></p><p><span style=\"color: rgb(96, 96, 96);\">Size 80x110 Cm</span></p><p><br></p><p><span style=\"color: rgb(96, 96, 96);\">*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</span></p><p><span style=\"color: rgb(96, 96, 96);\">**Kesesuaian standard sizepack dengan asli 1-2cm</span></p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH010/2406140926-KAH010-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH010/2406140926-KAH010-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH010/2406140926-KAH010-9.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH010/2406140926-KAH010-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH010/2406140926-KAH010-10.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH010/2406140926-KAH010-11.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH010/2406140926-KAH010-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH010/2406140926-KAH010-8.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH010/2406140926-KAH010-12.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH010/2406140926-KAH010-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH010/2406140926-KAH010-13.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH010/2406140926-KAH010-14.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH010/2406140926-thumbnail-KAH010.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "saffiya-antem",
+    "saffiya-antem"
+  ],
+  "meta_slug": "saffiya-antem",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAH010",
+      "price_tags": 110000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/saffiya_12.jpg",
+      "sku": "KAH01000330",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "COKLAT KOPI ",
+      "stock": 9,
+      "flag_stock_available": true,
+      "package_weight": 170,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAH010",
+      "price_tags": 110000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/saffiya_12.jpg",
+      "sku": "KAH01000750",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "DUSTY PEACH",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 170,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

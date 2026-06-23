@@ -1,0 +1,110 @@
+{
+  "product_id": "BBH012",
+  "name_product": "NGI 008",
+  "new_product": true,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "NBRS Gamis ikhwan",
+  "description": "<p>Material Bahan Romeo Dobby</p><p>Romeo Dobby merupakan&nbsp;salah satu kain tenun yang memiliki pola geometris kecil, memiliki tekstur yang khas dan lebih kaya (beragam) daripada bahan biasa. Kain ini memiliki berkualitas yang sangat bagus sehingga memberikan kenyamanan saat dikenakan. Bahannya kuat, tidak menerawang dan jatuh. Keunggulan lain dari Romeo Dobby adalah daya tahan yang baik, anti-kusut, mudah dirawat, tebal namun tetap breathable sehingga mudah menyerap keringat dengan baik.</p><p><br></p><p>Detail Produk :</p><p>- Kancing Depan</p><p>- Kerah Shanghai</p><p>- Saku Sisi (Kanan Kiri) yang Dilengkapi dengan Resleting</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBH012/250109015904-BBH012.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBH012/250109015907-BBH012.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBH012/250109015910-BBH012.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBH012/250109015914-BBH012.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBH012/250109020138-BBH012-WHITE.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBH012/thumbnail-250109015900-BBH012.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2025-01-09T07:02:53.658Z",
+  "variants": [
+    {
+      "code_model": "BBH012",
+      "price_tags": 268000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBH012/250109020138-BBH012-WHITE.jpeg",
+      "sku": "B2401BH01202114",
+      "variant1_size": "XS",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 422,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BBH012",
+      "price_tags": 268000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBH012/250109020138-BBH012-WHITE.jpeg",
+      "sku": "B2401BH01203114",
+      "variant1_size": "S",
+      "variant2_color": "WHITE",
+      "stock": 4,
+      "flag_stock_available": true,
+      "package_weight": 422,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BBH012",
+      "price_tags": 268000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBH012/250109020138-BBH012-WHITE.jpeg",
+      "sku": "B2401BH01204114",
+      "variant1_size": "M",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 422,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BBH012",
+      "price_tags": 268000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBH012/250109020138-BBH012-WHITE.jpeg",
+      "sku": "B2401BH01205114",
+      "variant1_size": "L",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 448,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BBH012",
+      "price_tags": 268000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBH012/250109020138-BBH012-WHITE.jpeg",
+      "sku": "B2401BH01206114",
+      "variant1_size": "XL",
+      "variant2_color": "WHITE",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 448,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BBH012",
+      "price_tags": 280000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBH012/250109020138-BBH012-WHITE.jpeg",
+      "sku": "B2401BH01207114",
+      "variant1_size": "XXL",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 462,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 30
+}

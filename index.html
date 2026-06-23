@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asisten Fashion Nibras</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        :root {
+            --primary: #8e44ad;
+            --primary-dark: #7d3c98;
+            --bg: #f0f2f5;
+            --text: #2c3e50;
+            --chat-bg: #ffffff;
+            --user-msg: #8e44ad;
+            --user-text: #ffffff;
+            --ai-msg: #ffffff;
+            --border: #e0e0e0;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        header {
+            background: var(--primary);
+            color: white;
+            padding: 1rem;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        #chat-container {
+            flex: 1;
+            overflow-y: auto;
+            padding: 2rem 1rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            max-width: 900px;
+            margin: 0 auto;
+            width: 100%;
+        }
+
+        .message {
+            max-width: 85%;
+            padding: 1rem 1.5rem;
+            border-radius: 1.2rem;
+            line-height: 1.6;
+            position: relative;
+            animation: fadeIn 0.3s ease;
+            font-size: 1.05rem;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .user-message {
+            align-self: flex-end;
+            background: var(--user-msg);
+            color: var(--user-text);
+            border-bottom-right-radius: 0.2rem;
+            box-shadow: 0 4px 15px rgba(142, 68, 173, 0.2);
+        }
+
+        .ai-message {
+            align-self: flex-start;
+            background: var(--ai-msg);
+            border: 1px solid var(--border);
+            border-bottom-left-radius: 0.2rem;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
+
+        /* Markdown Styling */
+        .ai-message h1, .ai-message h2, .ai-message h3 {
+            margin: 1rem 0 0.5rem 0;
+            color: var(--primary);
+        }
+        .ai-message p { margin-bottom: 0.8rem; }
+        .ai-message ul, .ai-message ol { margin: 0.5rem 0 1rem 1.5rem; }
+        .ai-message li { margin-bottom: 0.3rem; }
+        .ai-message hr { border: 0; border-top: 1px solid var(--border); margin: 1rem 0; }
+        .ai-message img { 
+            max-width: 200px; 
+            border-radius: 0.8rem; 
+            margin: 0.5rem 0;
+            display: block;
+            border: 1px solid var(--border);
+            transition: transform 0.2s;
+            cursor: pointer;
+        }
+        .ai-message img:hover { transform: scale(1.05); }
+
+        /* Product Cards Styling */
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            gap: 1.2rem;
+            margin: 1.5rem 0;
+            width: 100%;
+        }
+
+        .product-card {
+            background: #ffffff;
+            border-radius: 1rem;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+            border: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+        }
+
+        .product-card img {
+            width: 100%;
+            height: 200px;
+            object-fit: contain;
+            background: #fdfdfd;
+            border-radius: 0;
+            border: none;
+            margin: 0;
+            max-width: none;
+            border-bottom: 1px solid var(--border);
+            padding: 1rem;
+        }
+
+        .card-content {
+            padding: 1.2rem;
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+        }
+
+        .card-content h4 {
+            margin: 0 0 0.5rem 0;
+            font-size: 1.1rem;
+            color: var(--text);
+            line-height: 1.3;
+        }
+
+        .card-price {
+            color: var(--primary);
+            font-weight: 600;
+            font-size: 1.2rem;
+            margin-bottom: 0.8rem;
+        }
+
+        .card-desc {
+            font-size: 0.9rem;
+            color: #555;
+            flex: 1;
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            transition: all 0.3s;
+        }
+
+        .card-desc.expanded {
+            -webkit-line-clamp: unset;
+            display: block;
+            overflow: visible;
+        }
+
+        .see-more-btn {
+            background: none;
+            border: none;
+            color: var(--primary);
+            font-size: 0.85rem;
+            font-weight: 600;
+            padding: 0;
+            margin-bottom: 1rem;
+            cursor: pointer;
+            text-align: left;
+            width: fit-content;
+        }
+        
+        .see-more-btn:hover {
+            text-decoration: underline;
+            transform: none;
+            background: none;
+        }
+
+        .card-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: auto;
+        }
+
+        .badge {
+            background: #f0f2f5;
+            color: #444;
+            padding: 0.3rem 0.6rem;
+            border-radius: 0.5rem;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+
+        .badge.sku {
+            background: #e8f4fd;
+            color: #0969da;
+            font-family: monospace;
+            width: 100%;
+            text-align: center;
+        }
+
+        .badge.stock {
+            background: #e6f4ea;
+            color: #137333;
+        }
+        .input-area {
+            background: white;
+            padding: 1.2rem;
+            border-top: 1px solid var(--border);
+            display: flex;
+            gap: 0.8rem;
+            max-width: 900px;
+            margin: 0 auto;
+            width: 100%;
+            box-shadow: 0 -5px 20px rgba(0,0,0,0.03);
+        }
+
+        input {
+            flex: 1;
+            padding: 0.9rem 1.2rem;
+            border: 2px solid var(--border);
+            border-radius: 2rem;
+            outline: none;
+            font-size: 1rem;
+            font-family: inherit;
+            transition: border-color 0.2s;
+        }
+
+        input:focus {
+            border-color: var(--primary);
+        }
+
+        button {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 0 1.8rem;
+            border-radius: 2rem;
+            cursor: pointer;
+            font-weight: 600;
+            font-family: inherit;
+            transition: all 0.2s;
+        }
+
+        button:hover {
+            background: var(--primary-dark);
+            transform: translateY(-1px);
+        }
+
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .typing {
+            display: inline-flex;
+            gap: 4px;
+        }
+        .typing span {
+            width: 6px;
+            height: 6px;
+            background: #aaa;
+            border-radius: 50%;
+            animation: bounce 1.4s infinite ease-in-out both;
+        }
+        .typing span:nth-child(1) { animation-delay: -0.32s; }
+        .typing span:nth-child(2) { animation-delay: -0.16s; }
+
+        @keyframes bounce {
+            0%, 80%, 100% { transform: scale(0); }
+            40% { transform: scale(1.0); }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Asisten Fashion Nibras</h1>
+    </header>
+
+    <div id="chat-container">
+        <div class="message ai-message">
+            Halo! Saya asisten Nibras. Ada yang bisa saya bantu cari hari ini? <br><br>
+            Anda bisa tanya stok gamis, koko, tunik, atau mencari berdasarkan fitur seperti:
+            <ul>
+                <li><strong>Bahan:</strong> "Gamis bahan Jacquard"</li>
+                <li><strong>Fitur:</strong> "Cari yang busui friendly"</li>
+                <li><strong>Warna:</strong> "Gamis hitam bawah 200rb"</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="input-area">
+        <input type="text" id="user-input" placeholder="Tanya sesuatu..." autocomplete="off">
+        <button id="send-btn">Kirim</button>
+    </div>
+
+    <script>
+        const chatContainer = document.getElementById('chat-container');
+        const userInput = document.getElementById('user-input');
+        const sendBtn = document.getElementById('send-btn');
+
+        let chatHistory = [];
+
+        function appendMessage(role, content) {
+            const isAtBottom = chatContainer.scrollHeight - chatContainer.scrollTop <= chatContainer.clientHeight + 100;
+            
+            const msgDiv = document.createElement('div');
+            msgDiv.className = `message ${role}-message`;
+            if (role === 'ai') {
+                msgDiv.innerHTML = marked.parse(content);
+            } else {
+                msgDiv.textContent = content;
+            }
+            chatContainer.appendChild(msgDiv);
+            
+            if (isAtBottom) {
+                chatContainer.scrollTop = chatContainer.scrollHeight;
+            }
+            return msgDiv;
+        }
+
+        function renderProductGrid(products) {
+            if (!products || products.length === 0) return '<p style="padding:1rem; color:#666;">Tidak ada produk yang ditemukan.</p>';
+            
+            let gridHtml = '<div class="product-grid">';
+            products.forEach((p, idx) => {
+                const rawDesc = p.description ? p.description.replace(/<[^>]*>/g, '').trim() : '';
+                const shortDesc = rawDesc.length > 90 ? rawDesc.substring(0, 90) + '...' : rawDesc;
+                const hasMore = rawDesc.length > 90;
+
+                gridHtml += `
+                    <div class="product-card">
+                        <img src="${p.thumbnail || ''}" alt="${p.name_product}">
+                        <div class="card-content">
+                            <h4>${p.name_product}</h4>
+                            <div class="card-price">Rp ${(p.price.min || p.price).toLocaleString('id-ID')}</div>
+                            <div class="card-desc" id="desc-${idx}">${shortDesc}</div>
+                            ${hasMore ? `<button class="see-more-btn" onclick="toggleDesc(${idx}, '${rawDesc.replace(/'/g, "\\'")}')">Lihat selengkapnya</button>` : ''}
+                            <div class="card-meta">
+                                <span class="badge">${Array.isArray(p.sizes) ? p.sizes.join(', ') : p.size}</span>
+                                <span class="badge">${p.color}</span>
+                                <span class="badge stock">Stok: ${typeof p.stock_per_size === 'object' ? Object.entries(p.stock_per_size).map(([s, c]) => s + ':' + c).join(' ') : p.stock}</span>
+                                <span class="badge sku">${p.sku}</span>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            });
+            gridHtml += '</div>';
+            return gridHtml;
+        }
+
+        function toggleDesc(idx, fullText) {
+            const descDiv = document.getElementById(`desc-${idx}`);
+            const btn = descDiv.nextElementSibling;
+            
+            if (descDiv.classList.contains('expanded')) {
+                descDiv.classList.remove('expanded');
+                descDiv.textContent = fullText.substring(0, 90) + '...';
+                btn.textContent = 'Lihat selengkapnya';
+            } else {
+                descDiv.classList.add('expanded');
+                descDiv.textContent = fullText;
+                btn.textContent = 'Sembunyikan';
+            }
+        }
+
+        async function sendMessage() {
+            const text = userInput.value.trim();
+            if (!text) return;
+
+            userInput.value = '';
+            userInput.disabled = true;
+            sendBtn.disabled = true;
+
+            appendMessage('user', text);
+            chatHistory.push({ role: 'user', content: text });
+
+            const aiMsgDiv = appendMessage('ai', '<div class="typing"><span></span><span></span><span></span></div>');
+            let fullContent = '';
+
+            try {
+                const response = await fetch('/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ messages: chatHistory })
+                });
+
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder();
+                
+                aiMsgDiv.innerHTML = '';
+
+                while (true) {
+                    const { value, done } = await reader.read();
+                    if (done) break;
+
+                    const chunk = decoder.decode(value);
+                    const lines = chunk.split('\n');
+
+                    for (const line of lines) {
+                        if (line.startsWith('data: ')) {
+                            const data = line.slice(6);
+                            if (data === '[DONE]') break;
+                            
+                            try {
+                                const json = JSON.parse(data);
+                                if (json.products) {
+                                    const grid = renderProductGrid(json.products);
+                                    const gridDiv = document.createElement('div');
+                                    // Add greeting before products
+                                    gridDiv.innerHTML = `<p style="padding:1rem 1rem 0 1rem; color:#333; font-weight:500;">Berikut adalah produk yang tersedia:</p>` + grid;
+                                    chatContainer.insertBefore(gridDiv, aiMsgDiv);
+                                } else if (json.content) {
+                                    fullContent += json.content;
+                                    aiMsgDiv.innerHTML = marked.parse(fullContent);
+                                    
+                                    // Smart scroll only if already near bottom
+                                    const isAtBottom = chatContainer.scrollHeight - chatContainer.scrollTop <= chatContainer.clientHeight + 200;
+                                    if (isAtBottom) {
+                                        chatContainer.scrollTop = chatContainer.scrollHeight;
+                                    }
+                                } else if (json.error) {
+                                    aiMsgDiv.innerHTML = `<span style="color:red">Error: ${json.error}</span>`;
+                                }
+                            } catch (e) {}
+                        }
+                    }
+                }
+
+                chatHistory.push({ role: 'assistant', content: fullContent });
+
+            } catch (error) {
+                aiMsgDiv.innerHTML = `<span style="color:red">Gagal terhubung ke server. Pastikan server sudah jalan dan API Key sudah diisi.</span>`;
+            }
+
+            userInput.disabled = false;
+            sendBtn.disabled = false;
+            userInput.focus();
+        }
+
+        sendBtn.addEventListener('click', sendMessage);
+        userInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') sendMessage();
+        });
+    </script>
+</body>
+</html>

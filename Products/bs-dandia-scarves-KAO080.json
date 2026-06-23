@@ -1,0 +1,59 @@
+{
+  "product_id": "KAO080",
+  "name_product": "BS DANDIA SCARVES",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "NBRS Rayya Series 2026",
+  "description": "<p>Material Bahan Voal Symphony Tyspan</p><p>Bahan voal symphony tryspan adalah jenis voal premium yang ringan, lembut, dan nyaman dengan teknologi Tryspan yang membuatnya tidak mudah kusut. Bahan ini memiliki tekstur yang sangat halus, sedikit efek kilau, dan bisa membentuk siluet yang \"tetap tegak\" sehingga cocok untuk hijab, menawarkan tampilan elegan dan mudah dibentuk.</p><p><br></p><p>~ Size 115 x 115 cm</p><p>~ Tersedia 2 Varian Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO080/251201014107-KAO080.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO080/251201014112-KAO080.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO080/251201014116-KAO080.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO080/251201014129-KAO080.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO080/251201014137-KAO080.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO080/251201014204-KAO080.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO080/251201014213-KAO080.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO080/251201014219-KAO080.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO080/251201014235-KAO080-BROKEN%20WHITE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO080/251201014240-KAO080-BLACK.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO080/thumbnail-251201014102-KAO080.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2025-12-01T06:42:53.640Z",
+  "variants": [
+    {
+      "code_model": "KAO080",
+      "price_tags": 79000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO080/251201014235-KAO080-BROKEN%20WHITE.jpeg",
+      "sku": "K2515AO08000102",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BROKEN WHITE",
+      "stock": 45,
+      "flag_stock_available": true,
+      "package_weight": 120,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO080",
+      "price_tags": 79000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO080/251201014240-KAO080-BLACK.jpeg",
+      "sku": "K2515AO08000202",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLACK",
+      "stock": 23,
+      "flag_stock_available": true,
+      "package_weight": 120,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

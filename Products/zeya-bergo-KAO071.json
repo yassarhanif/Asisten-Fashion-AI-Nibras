@@ -1,0 +1,70 @@
+{
+  "product_id": "KAO071",
+  "name_product": "ZEYA BERGO",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Bergo",
+  "description": "<p>Material <span style=\"color: rgb(2, 8, 23);\">Crezia Crepe</span></p><p>Bahan Crezia Crepe adalah jenis kain tenun dengan anyaman crepe yang memiliki karakteristik halus, jatuh, elastis, dan adem. Serat kainnya rapat namun tetap breathable (memungkinkan sirkulasi udara). Selain itu, kain ini juga tidak mudah kusut dan memiliki tekstur yang lebih halus dibandingkan beberapa jenis crepe lainnya.&nbsp;</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO071/250722105256-KAO071.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO071/250722105302-KAO071.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO071/250722105308-KAO071.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO071/250722105313-KAO071.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO071/250722105424-KAO071-MILKY%20GREEN.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO071/250722105432-KAO071-BLACK.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO071/250722105437-KAO071-MOCCA.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO071/thumbnail-250722105247-KAO071.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2025-07-22T03:57:17.834Z",
+  "variants": [
+    {
+      "code_model": "KAO071",
+      "price_tags": 84000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO071/250722105424-KAO071-MILKY%20GREEN.jpeg",
+      "sku": "K2515AO07100170",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MILKY GREEN",
+      "stock": 18,
+      "flag_stock_available": true,
+      "package_weight": 262,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO071",
+      "price_tags": 84000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO071/250722105432-KAO071-BLACK.jpeg",
+      "sku": "K2515AO07100202",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLACK",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 262,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO071",
+      "price_tags": 84000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO071/250722105437-KAO071-MOCCA.jpeg",
+      "sku": "K2515AO07100331",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MOCCA",
+      "stock": 17,
+      "flag_stock_available": true,
+      "package_weight": 262,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

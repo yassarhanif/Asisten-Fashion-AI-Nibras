@@ -1,0 +1,113 @@
+{
+  "product_id": "BAG018",
+  "name_product": "NRC 018",
+  "new_product": true,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "Nibras Rok Celana",
+  "description": "<p>Material Bahan Toyobo</p><p><span style=\"color: rgb(2, 8, 23);\">- Kain Toyobo terbuat dari bahan serat alami yang sangat rapat. kain ini memiliki karakteristik dingin, namun cukup tebal dan tidak mudah kusut. Ini sangat nyaman untuk digunakan sehari-hari.</span></p><p><br></p><p>Detail Produk :</p><p>- Busui Friendly</p><p>- Saku Sisi</p><p>- Lengan Manset dan Kancing</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-BAG018-1.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-BAG018-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-BAG018-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-BAG018-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-BAG018-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-BAG018-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-BAG018-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-BAG018-KHAKI-undefined-1.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-thumbnail-BAG018.webp",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2024-05-28T06:02:02.337Z",
+  "variants": [
+    {
+      "code_model": "BAG018",
+      "price_tags": 175000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-BAG018-KHAKI-undefined-1.webp",
+      "sku": "B2401AG01802321",
+      "variant1_size": "XS",
+      "variant2_color": "KHAKI",
+      "stock": 4,
+      "flag_stock_available": true,
+      "package_weight": 340,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BAG018",
+      "price_tags": 175000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-BAG018-KHAKI-undefined-1.webp",
+      "sku": "B2401AG01803321",
+      "variant1_size": "S",
+      "variant2_color": "KHAKI",
+      "stock": 7,
+      "flag_stock_available": true,
+      "package_weight": 340,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BAG018",
+      "price_tags": 175000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-BAG018-KHAKI-undefined-1.webp",
+      "sku": "B2401AG01804321",
+      "variant1_size": "M",
+      "variant2_color": "KHAKI",
+      "stock": 6,
+      "flag_stock_available": true,
+      "package_weight": 340,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BAG018",
+      "price_tags": 175000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-BAG018-KHAKI-undefined-1.webp",
+      "sku": "B2401AG01805321",
+      "variant1_size": "L",
+      "variant2_color": "KHAKI",
+      "stock": 4,
+      "flag_stock_available": true,
+      "package_weight": 366,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BAG018",
+      "price_tags": 175000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-BAG018-KHAKI-undefined-1.webp",
+      "sku": "B2401AG01806321",
+      "variant1_size": "XL",
+      "variant2_color": "KHAKI",
+      "stock": 8,
+      "flag_stock_available": true,
+      "package_weight": 366,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BAG018",
+      "price_tags": 185000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAG018/2405280848-BAG018-KHAKI-undefined-1.webp",
+      "sku": "B2401AG01807321",
+      "variant1_size": "XXL",
+      "variant2_color": "KHAKI",
+      "stock": 6,
+      "flag_stock_available": true,
+      "package_weight": 382,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 10
+}

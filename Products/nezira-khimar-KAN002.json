@@ -1,0 +1,88 @@
+{
+  "product_id": "KAN002",
+  "name_product": "NEZIRA KHIMAR",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Khimar",
+  "description": "<p>Material Bahan Nezira Khimar</p><p>Detail Produk :</p><p><br></p><p>- Variansi Lubang Lengan</p><p>- Lengan Variasi Karet Smock</p><p>- Pad Tali Adjustable</p><p><br></p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030320-KAN002.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030433-KAN002.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030429-KAN002.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030312-KAN002.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030307-KAN002.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030437-KAN002.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030718-KAN002-BLUSH.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030720-KAN002-MAHOGANY.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030729-KAN002-BROKEN%20WHITE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030736-KAN002-BLACK.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030938-KAN002.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/thumbnail-260402030303-KAN002.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2026-04-02T08:43:34.861Z",
+  "variants": [
+    {
+      "code_model": "KAN002",
+      "price_tags": 154000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030718-KAN002-BLUSH.jpeg",
+      "sku": "K2515AN00200024",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLUSH",
+      "stock": 9,
+      "flag_stock_available": true,
+      "package_weight": 464,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAN002",
+      "price_tags": 154000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030720-KAN002-MAHOGANY.jpeg",
+      "sku": "K2515AN00200038",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MAHOGANY",
+      "stock": 16,
+      "flag_stock_available": true,
+      "package_weight": 464,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAN002",
+      "price_tags": 154000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030729-KAN002-BROKEN%20WHITE.jpeg",
+      "sku": "K2515AN00200102",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BROKEN WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 464,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAN002",
+      "price_tags": 154000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAN002/260402030736-KAN002-BLACK.jpeg",
+      "sku": "K2515AN00200202",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLACK",
+      "stock": 5,
+      "flag_stock_available": true,
+      "package_weight": 464,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

@@ -1,0 +1,56 @@
+{
+  "product_id": "KAO094",
+  "name_product": "CHITAKU SCARVES",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "NBRS Rayya Series 2026",
+  "description": "<p>Material Bahan Glittering Shimer</p><p>Kain Glittering Shimmer adalah bahan tekstil sintetis (polyester/nylon) dengan permukaan berkilau lembut seperti logam (metallic) dan efek glitter yang memantulkan cahaya. Karakteristiknya mewah, halus, tebal, tidak menerawang, ringan, dan sedikit kaku/melayang. Kain ini populer untuk busana pesta/hijab karena memberikan kesan glamor.&nbsp;</p><p><br></p><p>~ Size 120 x 120 cm</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO094/260128015545-KAO094.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO094/260128015550-KAO094.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO094/260128015604-KAO094.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO094/260128015615-KAO094.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO094/260128015621-KAO094.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO094/260128015630-KAO094-MINT.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO094/260128015635-KAO094-ROSE%20GOLD.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO094/thumbnail-260128015511-KAO094.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2026-01-28T06:57:03.567Z",
+  "variants": [
+    {
+      "code_model": "KAO094",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO094/260128015630-KAO094-MINT.jpeg",
+      "sku": "K2515AO09400154",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MINT",
+      "stock": 23,
+      "flag_stock_available": true,
+      "package_weight": 107,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO094",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO094/260128015635-KAO094-ROSE%20GOLD.jpeg",
+      "sku": "K2515AO09400816",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "ROSE GOLD",
+      "stock": 12,
+      "flag_stock_available": true,
+      "package_weight": 107,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

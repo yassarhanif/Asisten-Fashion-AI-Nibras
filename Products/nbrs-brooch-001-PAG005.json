@@ -1,0 +1,55 @@
+{
+  "product_id": "PAG005",
+  "name_product": "NBRS BROOCH 001",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Brooch",
+  "description": "<p>Brooch by JILBAB NIBRAS kini hadir dengan tampilan baru, dengan variasi kristal untuk membuat penampilan mu lebih elegent dan mewah di setiap hari nya.</p><p>Mengunakan material Alloy Steel sehingga tidak mudah karatan dan ringan.</p><p>Hadir dengan upgrade packaging yang lebih mewah dan terlindungi</p><p><br></p><p>Color : Black dan Rose Gold</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAG005/240806012644-PAG005.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAG005/240806012640-PAG005.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAG005/240806012646-PAG005.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAG005/240806012715-PAG005-BLACK.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAG005/240806012954-PAG005-BLACK.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAG005/240806012956-PAG005-ROSE.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAG005/thumbnail-240806012636-PAG005.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2024-08-06T06:30:12.086Z",
+  "variants": [
+    {
+      "code_model": "PAG005",
+      "price_tags": 94000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAG005/240806012954-PAG005-BLACK.jpeg",
+      "sku": "P15AG00500202",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLACK",
+      "stock": 19,
+      "flag_stock_available": true,
+      "package_weight": 66,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "PAG005",
+      "price_tags": 94000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAG005/240806012956-PAG005-ROSE.jpeg",
+      "sku": "P15AG00500723",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "ROSE",
+      "stock": 19,
+      "flag_stock_available": true,
+      "package_weight": 66,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

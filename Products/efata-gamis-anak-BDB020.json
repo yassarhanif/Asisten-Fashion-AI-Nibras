@@ -1,0 +1,104 @@
+{
+  "product_id": "BDB020",
+  "name_product": "EFATA GAMIS ANAK",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "NBRS Rayya Series 2024",
+  "description": "<p>Material Dobby Accent mix Tulle &amp; Baby Doll</p><p>- Dobby Accent merupakan kain yang dibuat dengan teknik anyaman yang disebut Dobby. Kain Dobby dikenal akan motifnya yang bagus dan estetik, memiliki karakter motif dot (titik) yang tidak beraturan. Tekstur kain ini lembut dan jatuh.</p><p>- Tulle adalah jenis kain yang memiliki ciri khas seperti jaring kecil yakni permukaannya berlubang-lubang sehingga menjadikan tampilannya tampak transparan.</p><p>- Baby Doll merupakan Woven Fabric yang masuk ke dalam jenis Creppe karakteristik kain ini tipis, jatuh dan elastis. Kontur atau permukaan bahan kain ini pada dasarnya memiliki bentuk yang sangat mirip dengan kulit jeruk namun cenderung lebih halus dan terdapat bintik-bintik kecil.</p><p><br></p><p>Detail Produk :</p><p>- Resleting Belakang</p><p>- Saku Sisi</p><p>- Variasi Layer</p><p>- Lengan Manset dan Karet</p><p>- Hijab Pad</p><p>- Hijab Tali Belakang</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/EFATA_GRANITE_GREEN_04.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BDB020/240807095435-BDB020.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BDB020/240807095524-BDB020.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BDB020/240807095527-BDB020.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BDB020/240807095612-BDB020.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BDB020/240807095615-BDB020.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BDB020/240807095620-BDB020.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BDB020/240807095709-BDB020.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BDB020/240807095711-BDB020.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BDB020/240807095714-BDB020.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/EFATA_GRANITE_GREEN_04.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "efata-gamis-anak",
+    "efata-gamis-anak"
+  ],
+  "meta_slug": "efata-gamis-anak",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BDB020",
+      "price_tags": 248000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/EFATA_GRANITE_GREEN_04.jpg",
+      "sku": "BDB02020128",
+      "variant1_size": "P0",
+      "variant2_color": "PLUM",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 234,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BDB020",
+      "price_tags": 258000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/EFATA_GRANITE_GREEN_04.jpg",
+      "sku": "BDB02022128",
+      "variant1_size": "P3",
+      "variant2_color": "PLUM",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 298,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BDB020",
+      "price_tags": 258000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/EFATA_GRANITE_GREEN_04.jpg",
+      "sku": "BDB02023128",
+      "variant1_size": "P5",
+      "variant2_color": "PLUM",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 298,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BDB020",
+      "price_tags": 248000,
+      "thumbnails": "",
+      "sku": "BDB02030128",
+      "variant1_size": "P0+",
+      "variant2_color": "PLUM LILAC",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 234,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BDB020",
+      "price_tags": 248000,
+      "thumbnails": "",
+      "sku": "BDB02030551",
+      "variant1_size": "P0+",
+      "variant2_color": "GRANITE GREEN",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 234,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

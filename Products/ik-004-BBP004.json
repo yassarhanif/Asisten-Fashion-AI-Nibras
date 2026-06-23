@@ -1,0 +1,113 @@
+{
+  "product_id": "BBP004",
+  "name_product": "IK 004",
+  "new_product": false,
+  "brand": {
+    "name_brand": "youth inspire"
+  },
+  "category3": "YINS Kulot",
+  "description": "<p>Material Crezia Crepe, termasuk kategori kain Woven Fabric dengan anyaman Crepe. Karakter kain ini halus, jatuh, elastis dan adem, memiliki serat yang rapat, namun bersifat breathable (udara masih bisa masuk melalui pori-pori serat kain). Kelebihan material kain ini adalah tidak mudah kusut dan tentunya lebih halus.</p><p><br></p><p>Detail Produk :</p><p>- Saku Sisi</p><p>- Pinggang Belakang Karet</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-8.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-9.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-10.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-11.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-12.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-13.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-14.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-15.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-16.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-17.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-18.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-19.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405240357-BBP004-20.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP004/2405250825-thumbnail-BBP004.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "ik-004",
+    "ik-004"
+  ],
+  "meta_slug": "ik-004",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BBP004",
+      "price_tags": 132000,
+      "thumbnails": "\"\"",
+      "sku": "BBP00402135",
+      "variant1_size": "XS",
+      "variant2_color": "DARK GREY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 234,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBP004",
+      "price_tags": 132000,
+      "thumbnails": "\"\"",
+      "sku": "BBP00402303",
+      "variant1_size": "XS",
+      "variant2_color": "CHOCOLATE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 234,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBP004",
+      "price_tags": 132000,
+      "thumbnails": "\"\"",
+      "sku": "BBP00402554",
+      "variant1_size": "XS",
+      "variant2_color": "OLIVE GREEN",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 234,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBP004",
+      "price_tags": 132000,
+      "thumbnails": "\"\"",
+      "sku": "BBP00402602",
+      "variant1_size": "XS",
+      "variant2_color": "BLUE JEANS",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 234,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBP004",
+      "price_tags": 132000,
+      "thumbnails": "\"\"",
+      "sku": "BBP00403135",
+      "variant1_size": "S",
+      "variant2_color": "DARK GREY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 234,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

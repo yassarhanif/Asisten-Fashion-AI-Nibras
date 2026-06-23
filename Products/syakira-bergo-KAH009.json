@@ -1,0 +1,48 @@
+{
+  "product_id": "KAH009",
+  "name_product": "SYAKIRA BERGO",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Khimar",
+  "description": "<p><span style=\"color: rgb(96, 96, 96);\">Bahan Diamond Crepe memiliki tekstur yang lembut, ringan,adem, permukaan berpasir dan tidak terlalu tebal</span></p><p><br></p><p><span style=\"color: rgb(96, 96, 96);\">Size 80 x 80cm</span></p><p><br></p><p><span style=\"color: rgb(96, 96, 96);\">*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</span></p><p><span style=\"color: rgb(96, 96, 96);\">**Kesesuaian standard sizepack dengan asli 1-2cm</span></p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH009/2406140926-KAH009-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH009/2406140926-KAH009-9.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH009/2406140926-KAH009-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH009/2406140926-KAH009-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH009/2406140926-KAH009-8.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH009/2406140926-KAH009-11.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH009/2406140926-KAH009-10.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH009/2406140926-KAH009-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH009/2406140926-KAH009-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH009/2406140926-KAH009-3.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAH009/2406140926-thumbnail-KAH009.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "syakira-bergo",
+    "syakira-bergo"
+  ],
+  "meta_slug": "syakira-bergo",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAH009",
+      "price_tags": 95000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/SYAKIRA_4.jpg",
+      "sku": "KAH00900102",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BROKEN WHITE",
+      "stock": 3,
+      "flag_stock_available": true,
+      "package_weight": 100,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

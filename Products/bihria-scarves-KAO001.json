@@ -1,0 +1,56 @@
+{
+  "product_id": "KAO001",
+  "name_product": "BIHRIA SCARVES",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Scarves",
+  "description": "<p>Material Nibras Voal Ultrashiny</p><p><br></p><p>Detail Produk :</p><p>- Size Hijab : 115x115 cm</p><p>- Tersedia 2 Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO001/2405300818-KAO001-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO001/2405300818-KAO001-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO001/2405300818-KAO001-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO001/2405300818-KAO001-5.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO001/2405300818-thumbnail-KAO001.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "bihria-scarves",
+    "bihria-scarves"
+  ],
+  "meta_slug": "bihria-scarves",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAO001",
+      "price_tags": 120000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/0255.jpeg",
+      "sku": "KAO00100114",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 68,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAO001",
+      "price_tags": 120000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/0255.jpeg",
+      "sku": "KAO00100202",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLACK",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 68,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 25
+}

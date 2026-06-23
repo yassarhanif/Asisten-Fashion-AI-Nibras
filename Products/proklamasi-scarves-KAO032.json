@@ -1,0 +1,56 @@
+{
+  "product_id": "KAO032",
+  "name_product": "PROKLAMASI SCARVES",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Scarves",
+  "description": "<p>PROKLAMASI SCARVES diciptakan khusus dengan segala keindahan khas nusantara serta menumbuhkan semangat persatuan dalam setiap gayamu.</p><p><br></p><p>Material Bahan Soft Voal</p><p>Bahan hijab soft voal ini memiliki tekstur yang lebih halus dan lebih lembut, serat terlihat jelas, memiliki detail bulu-bulu halus, lebih adem, breathable dan nyaman untuk dipakai</p><p><br></p><p>~ Size 115 x 115 cm</p><p>~ Tersedia 2 Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO032/240725101521-KAO032.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO032/240725101542-KAO032.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO032/240725101549-KAO032.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO032/240725101553-KAO032.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO032/240725101556-KAO032.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO032/240725101607-KAO032-MERAH.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO032/240725101609-KAO032-PUTIH.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO032/thumbnail-240725101516-KAO032.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2024-07-25T03:16:19.619Z",
+  "variants": [
+    {
+      "code_model": "KAO032",
+      "price_tags": 59000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO032/240725101609-KAO032-PUTIH.jpeg",
+      "sku": "K2415AO03200100",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "PUTIH",
+      "stock": 62,
+      "flag_stock_available": true,
+      "package_weight": 96,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO032",
+      "price_tags": 59000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO032/240725101607-KAO032-MERAH.jpeg",
+      "sku": "K2415AO03200700",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MERAH",
+      "stock": 223,
+      "flag_stock_available": true,
+      "package_weight": 96,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 20
+}

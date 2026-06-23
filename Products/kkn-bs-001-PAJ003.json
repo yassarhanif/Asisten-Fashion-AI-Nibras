@@ -1,0 +1,82 @@
+{
+  "product_id": "PAJ003",
+  "name_product": "KKN BS 001",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "Kaos Kaki",
+  "description": "<p><span class=\"ql-cursor\">ï»¿</span>Bahan Spandek</p><p>Kain spandek adalah jenis kain yang terbuat dari serat sintetis yang sangat elastis dan fleksibel. Kain ini terkenal dengan kemampuannya meregang dan kembali ke bentuk semula, bahkan bisa meregang hingga beberapa kali lipat dari ukuran aslinya. Spandek sering dicampur dengan serat lain seperti katun, nilon, atau poliester untuk meningkatkan kualitas dan kenyamanannya.</p><p><br></p><p>Size </p><p>M : 33 cm</p><p>L : 38 cm</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAJ003/250821014344-PAJ003.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAJ003/250821014352-PAJ003.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAJ003/250821014405-PAJ003.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAJ003/250821014410-PAJ003.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAJ003/250821014414-PAJ003.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAJ003/thumbnail-250821014420-PAJ003.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2025-08-21T06:44:38.637Z",
+  "variants": [
+    {
+      "code_model": "PAJ003",
+      "price_tags": 23500,
+      "thumbnails": "",
+      "sku": "P2515AJ00304008",
+      "variant1_size": "M",
+      "variant2_color": "CREAM",
+      "stock": 92,
+      "flag_stock_available": true,
+      "package_weight": 51,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "PAJ003",
+      "price_tags": 24500,
+      "thumbnails": "",
+      "sku": "P2515AJ00305008",
+      "variant1_size": "L",
+      "variant2_color": "CREAM",
+      "stock": 83,
+      "flag_stock_available": true,
+      "package_weight": 51,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "PAJ003",
+      "price_tags": 23500,
+      "thumbnails": "",
+      "sku": "P2515AJ00304114",
+      "variant1_size": "M",
+      "variant2_color": "WHITE",
+      "stock": 100,
+      "flag_stock_available": true,
+      "package_weight": 51,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "PAJ003",
+      "price_tags": 24500,
+      "thumbnails": "",
+      "sku": "P2515AJ00305114",
+      "variant1_size": "L",
+      "variant2_color": "WHITE",
+      "stock": 117,
+      "flag_stock_available": true,
+      "package_weight": 51,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

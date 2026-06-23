@@ -1,0 +1,112 @@
+{
+  "product_id": "KAI023",
+  "name_product": "TAZKIA ANTEM",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "nh khimar instan ii layer",
+  "description": "<p> Bahan Baby Doll </p><p> Kain ceruti babydoll merupakan salah satu jenis kainyang memiliki tekstur seperti kulit jeruk atau berpasir dengan tekstur yang tipis, ringan dan lembut.merupakan turunan dari kain sifon sehingga karakteristik ceruti hampir sama dengan sifon. Tetapi jika dibandingkan kain ceruti ini lebih lembut dan lebih elastis.</p><p> </p><p> Size 80 x 110 cm</p><p> </p><p> *Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p> *Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_1.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_2.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_3.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_4.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_6.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_5.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_7.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_9.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_8.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_10.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_11.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_12.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_14.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_13.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_15.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_16.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/TAZKIA_._._._.1_.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/TAZKIA_._._._.jpg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/tazkia_1.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "tazkia-antem",
+    "tazkia-antem"
+  ],
+  "meta_slug": "tazkia-antem",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAI023",
+      "price_tags": 125000,
+      "thumbnails": "\"\"",
+      "sku": "KAI02300146",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "ARMY",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 182,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAI023",
+      "price_tags": 125000,
+      "thumbnails": "\"\"",
+      "sku": "KAI02300219",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MISTY GREY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 182,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAI023",
+      "price_tags": 125000,
+      "thumbnails": "\"\"",
+      "sku": "KAI02300632",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "NAVY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 182,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAI023",
+      "price_tags": 125000,
+      "thumbnails": "\"\"",
+      "sku": "KAI02300645",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "TURQUOISE BLUE",
+      "stock": 6,
+      "flag_stock_available": true,
+      "package_weight": 182,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAI023",
+      "price_tags": 125000,
+      "thumbnails": "\"\"",
+      "sku": "KAI02300692",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "CLASSIC BLUE",
+      "stock": 11,
+      "flag_stock_available": true,
+      "package_weight": 182,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

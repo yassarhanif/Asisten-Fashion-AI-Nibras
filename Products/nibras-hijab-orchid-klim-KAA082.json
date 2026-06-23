@@ -1,0 +1,48 @@
+{
+  "product_id": "KAA082",
+  "name_product": "NIBRAS HIJAB ORCHID KLIM",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "nh nibras hijab",
+  "description": "<p> Bahan Satin Velvet Motif</p><p> merupakan bahan yang halus dan lembut.</p><p> </p><p> Size 140 x 140 cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ORCHID_KLIM_5.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ORCHID_KLIM_7.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ORCHID_KLIM_MAGENTA_(14).jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ORCHID_KLIM_KUNING_(3).jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ORCHID_KLIM_PINK_(3).jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ORCHID_KLIM_NAVY_(16).jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ORCHID_KLIM_Artboard_1.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ORCHID_KLIM_Artboard_2.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ORCHID_KLIM_Artboard_3.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ORCHID_KLIM_Artboard_4.jpg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ORCHID_KLIM_5.jpeg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "nibras-hijab-orchid-klim",
+    "nibras-hijab-orchid-klim"
+  ],
+  "meta_slug": "nibras-hijab-orchid-klim",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAA082",
+      "price_tags": 90000,
+      "thumbnails": "\"\"",
+      "sku": "KAA08200903",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MAGENTA",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 100,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

@@ -1,0 +1,62 @@
+{
+  "product_id": "BAG003",
+  "name_product": "NRC 003",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "nibras rok celana (nrc)",
+  "description": "<p> TWILL MODEL KULOT DENGAN TUTUP DEPAN SAJA</p><p> =====</p><p> </p><p> Bahan Twill adalah bahan yang lembut, halus,&amp; tebal.</p><p> </p><p> *Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p> *Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-COVER-NRC-03-ABU-TUA-A-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-BIRU-TOSCA-A-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-ABU-TUA-C-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-BIRU-TOSCA-B-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-COKLAT-KOPI-B-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-BIRU-TOSCA-C-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-COKLAT-KOPI-A-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-FANTA-B-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-CREAM-A-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-FANTA-A-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-CREAM-B-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-FANTA-GELAP-A-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-FANTA-GELAP-B-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-FANTA-GELAP-C-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-HIJAU-TOSCA-A-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-HIJAU-TOSCA-B-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-HITAM-B-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-HITAM-A-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-HIJAU-TOSCA-C-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-MAROON-A-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-MAROON-B-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-NAVY-A-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-NAVY-B-FILEminimizer.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-G-NRC-03-SALEM-B-FILEminimiz"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5392-COVER-NRC-03-ABU-TUA-A-FILEminimizer.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "nrc-003",
+    "nrc-003"
+  ],
+  "meta_slug": "nrc-003",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BAG003",
+      "price_tags": 145000,
+      "thumbnails": "\"\"",
+      "sku": "BAG00302701",
+      "variant1_size": "XS",
+      "variant2_color": "FANTA",
+      "stock": 4,
+      "flag_stock_available": true,
+      "package_weight": 400,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

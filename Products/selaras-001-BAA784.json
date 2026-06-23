@@ -1,0 +1,109 @@
+{
+  "product_id": "BAA784",
+  "name_product": "SELARAS 001",
+  "new_product": true,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "NBRS Gamis Dewasa",
+  "description": "<p>Material Bahan Vienna</p><p>Kain Vienna adalah jenis kain yang terbuat dari 100% polyester, dikenal karena teksturnya yang lembut dan banyak pilihan warna yang menarik</p><p><br></p><p>Detail Produk :</p><p>- Kerah Kemeja</p><p>- Busui Friendly</p><p>- Saku Kanan Kiri</p><p>- Lengan Variasi Renda</p><p>- Variasi Lipit</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA784/250710083157-BAA784.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA784/250710083151-BAA784.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA784/250710083146-BAA784.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA784/250710083203-BAA784.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA784/thumbnail-250710083123-BAA784.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2025-07-10T01:36:37.574Z",
+  "variants": [
+    {
+      "code_model": "BAA784",
+      "price_tags": 308000,
+      "thumbnails": "",
+      "sku": "B2501AA78402202",
+      "variant1_size": "XS",
+      "variant2_color": "BLACK",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 300,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAA784",
+      "price_tags": 308000,
+      "thumbnails": "",
+      "sku": "B2501AA78403202",
+      "variant1_size": "S",
+      "variant2_color": "BLACK",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 312,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAA784",
+      "price_tags": 308000,
+      "thumbnails": "",
+      "sku": "B2501AA78404202",
+      "variant1_size": "M",
+      "variant2_color": "BLACK",
+      "stock": 11,
+      "flag_stock_available": true,
+      "package_weight": 324,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAA784",
+      "price_tags": 308000,
+      "thumbnails": "",
+      "sku": "B2501AA78405202",
+      "variant1_size": "L",
+      "variant2_color": "BLACK",
+      "stock": 14,
+      "flag_stock_available": true,
+      "package_weight": 336,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAA784",
+      "price_tags": 308000,
+      "thumbnails": "",
+      "sku": "B2501AA78406202",
+      "variant1_size": "XL",
+      "variant2_color": "BLACK",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 348,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAA784",
+      "price_tags": 320000,
+      "thumbnails": "",
+      "sku": "B2501AA78407202",
+      "variant1_size": "XXL",
+      "variant2_color": "BLACK",
+      "stock": 5,
+      "flag_stock_available": true,
+      "package_weight": 360,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 0
+}

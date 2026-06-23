@@ -1,0 +1,116 @@
+{
+  "product_id": "BCG118",
+  "name_product": "MECCA KOKO ANAK",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "Nibras Sarimbit",
+  "description": "<p>Material Koko : Dobby Cotton</p><p>Material Celana : Cotton Twill 30s</p><p><br></p><p>Detail Produk :</p><p>- Full Kancing Depan</p><p>- Saku Depan</p><p>- Lengan Panjang</p><p>- Pinggang Celana Full Karet</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG118/2406030858-BCG118-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG118/2406030858-BCG118-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG118/2406030858-BCG118-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG118/2406030858-BCG118-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG118/2406030858-BCG118-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG118/2406030858-BCG118-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG118/2406030858-BCG118-8.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG118/2406030858-BCG118-9.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/07.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "mecca-koko-anak",
+    "mecca-koko-anak"
+  ],
+  "meta_slug": "mecca-koko-anak",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BCG118",
+      "price_tags": 238000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/07.jpg",
+      "sku": "BCG11813114",
+      "variant1_size": "L0",
+      "variant2_color": "WHITE",
+      "stock": 3,
+      "flag_stock_available": true,
+      "package_weight": 274,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCG118",
+      "price_tags": 238000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/07.jpg",
+      "sku": "BCG11814114",
+      "variant1_size": "L2",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 274,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCG118",
+      "price_tags": 248000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/07.jpg",
+      "sku": "BCG11815114",
+      "variant1_size": "L4",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 318,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCG118",
+      "price_tags": 248000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/07.jpg",
+      "sku": "BCG11816114",
+      "variant1_size": "L6",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 318,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCG118",
+      "price_tags": 258000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/07.jpg",
+      "sku": "BCG11817114",
+      "variant1_size": "L8",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 386,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCG118",
+      "price_tags": 258000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/07.jpg",
+      "sku": "BCG11818114",
+      "variant1_size": "L10",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 386,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

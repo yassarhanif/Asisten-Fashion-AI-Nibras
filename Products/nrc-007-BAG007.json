@@ -1,0 +1,39 @@
+{
+  "product_id": "BAG007",
+  "name_product": "NRC 007",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "nibras rok celana (nrc)",
+  "description": "<p> Bahan: Supernova Standar.</p><p> </p><p> *Bahan supernova adalah jenis katun yang memiliki feel kain yang halus, lembut, adem &amp; polyester.</p><p> </p><p> </p><p> *Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p> *Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-03-12_at_08.51_.04_.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-03-12_at_08.51_.04_.jpeg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "nrc-007",
+    "nrc-007"
+  ],
+  "meta_slug": "nrc-007",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BAG007",
+      "price_tags": 135000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-03-12_at_08.51_.04_.jpeg",
+      "sku": "BAG00702711",
+      "variant1_size": "XS",
+      "variant2_color": "MERAH MAROON CERAH",
+      "stock": 5,
+      "flag_stock_available": true,
+      "package_weight": 400,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

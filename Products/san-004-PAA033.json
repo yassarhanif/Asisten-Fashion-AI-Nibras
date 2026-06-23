@@ -1,0 +1,86 @@
+{
+  "product_id": "PAA033",
+  "name_product": "SAN 004",
+  "new_product": true,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "NBRS Sarung",
+  "description": "<p>Material Bahan TR</p><p>Kain TR adalah kain campuran Teteron (poliester) dan Rayon yang memberikan kombinasi kelembutan dan kenyamanan rayon dengan kekuatan dan ketahanan poliester. Kain ini memiliki tekstur yang lembut, tidak mudah kusut, mudah dirawat, dan memiliki daya serap yang baik</p><p><br></p><p>Ukuran Sarung : 125cm x 210cm</p><p><br></p><p>Tersedia 4 Warna :</p><p>- Black</p><p>- Burgundy</p><p>- Emerald</p><p>- Grey</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA033/260209110822-PAA033.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA033/260209110826-PAA033.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA033/260209110830-PAA033.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA033/260209110834-PAA033.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA033/260209110837-PAA033.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA033/260209110857-PAA033-BURGUNDY.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA033/260209110901-PAA033-BLACK.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA033/260209110905-PAA033-GREY.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA033/260209110909-PAA033-EMERALD.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA033/thumbnail-260209110726-PAA033.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2026-02-09T04:09:17.124Z",
+  "variants": [
+    {
+      "code_model": "PAA033",
+      "price_tags": 130000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA033/260209110857-PAA033-BURGUNDY.jpeg",
+      "sku": "P2515AA03300104",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BURGUNDY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 394,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "PAA033",
+      "price_tags": 130000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA033/260209110901-PAA033-BLACK.jpeg",
+      "sku": "P2515AA03300202",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLACK",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 394,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "PAA033",
+      "price_tags": 130000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA033/260209110905-PAA033-GREY.jpeg",
+      "sku": "P2515AA03300205",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "GREY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 394,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "PAA033",
+      "price_tags": 130000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA033/260209110909-PAA033-EMERALD.jpeg",
+      "sku": "P2515AA03300294",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "EMERALD",
+      "stock": 27,
+      "flag_stock_available": true,
+      "package_weight": 394,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 0
+}

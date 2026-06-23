@@ -1,0 +1,72 @@
+{
+  "product_id": "BBA048",
+  "name_product": "NSA 067",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "nibras sarimbit anak lk",
+  "description": "<p> Bahan Monalisa</p><p> </p><p> Detail</p><p> - Kancing &amp; Saku Depan</p><p> - Variasi Bordir </p><p> - Bahan Celana Angelina </p><p> - Pinggang Celana Full Karet</p><p> </p><p> *Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p> *Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/sarimbit_67_82.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/sarimbit_671.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/sarimbit_67_5.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/SAR_671.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/SARIMBIT_67_2.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/SARIMBIT_67_1.jpg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/sarimbit_67_82.jpg",
+  "thumbnails_size_cart": "https://media.nbrscorp.co.id/gudang-online-nibras-web/sizechart/sizepacks_old/non-sarimbit-49-55-koko-anak.jpg",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "nsa-067",
+    "nsa-067"
+  ],
+  "meta_slug": "nsa-067",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BBA048",
+      "price_tags": 208000,
+      "thumbnails": "\"\"",
+      "sku": "BBA04813632",
+      "variant1_size": "L0",
+      "variant2_color": "NAVY",
+      "stock": 11,
+      "flag_stock_available": true,
+      "package_weight": 190,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBA048",
+      "price_tags": 208000,
+      "thumbnails": "\"\"",
+      "sku": "BBA04813713",
+      "variant1_size": "L0",
+      "variant2_color": "MAROON",
+      "stock": 24,
+      "flag_stock_available": true,
+      "package_weight": 190,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBA048",
+      "price_tags": 228000,
+      "thumbnails": "\"\"",
+      "sku": "BBA04818713",
+      "variant1_size": "L10",
+      "variant2_color": "MAROON",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 330,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

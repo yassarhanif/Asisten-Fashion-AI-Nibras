@@ -1,0 +1,115 @@
+{
+  "product_id": "KAO036",
+  "name_product": "SHORE SCARVES",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Scarves",
+  "description": "<p>Material Bahan Soft Voal</p><p>Bahan hijab Soft Voal memiliki tekstur halus dan lembut dengan serat terlihat jelas, memiliki detail bulu-bulu halus, breathable, adem dan nyaman untuk dipakai.</p><p><br></p><p>~ Size 115 x 115 cm</p><p>~ Tersedia 6 Varian Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO036/241212110436-KAO036-BEIGE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO036/241212110440-KAO036-BLACK.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO036/241212110444-KAO036-LIGHT%20BLUE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO036/241212110448-KAO036-PEACH.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO036/241212110452-KAO036-PINK.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO036/241212110457-KAO036-SAND.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO036/thumbnail-241212110349-KAO036.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": "hijab favorit kaum wanita muslimah",
+  "meta_keywords": [
+    "SHORE SCARVES",
+    "SHORE",
+    "SCARVES"
+  ],
+  "meta_slug": "shore scarves",
+  "created_at": "2024-12-12T04:04:38.179Z",
+  "variants": [
+    {
+      "code_model": "KAO036",
+      "price_tags": 69000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO036/241212110436-KAO036-BEIGE.jpeg",
+      "sku": "K2415AO03600116",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BEIGE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 110,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO036",
+      "price_tags": 69000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO036/241212110444-KAO036-LIGHT%20BLUE.jpeg",
+      "sku": "K2415AO03600126",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "LIGHT BLUE",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 110,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO036",
+      "price_tags": 69000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO036/241212110440-KAO036-BLACK.jpeg",
+      "sku": "K2415AO03600202",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLACK",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 110,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO036",
+      "price_tags": 69000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO036/241212110452-KAO036-PINK.jpeg",
+      "sku": "K2415AO03600702",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "PINK",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 110,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO036",
+      "price_tags": 69000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO036/241212110457-KAO036-SAND.jpeg",
+      "sku": "K2415AO03600761",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "SAND",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 110,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO036",
+      "price_tags": 69000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO036/241212110448-KAO036-PEACH.jpeg",
+      "sku": "K2415AO03600802",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "PEACH",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 110,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

@@ -1,0 +1,83 @@
+{
+  "product_id": "BAE082",
+  "name_product": "NK 082",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "Nibras Koko Dewasa",
+  "description": "<p>Material Cassanova Slub adalah turunan katun, memiliki ketebalan medium, handfeelnya halus dan adem, tidak menerawang, tidak mudah kusut, memiliki tekstur misty seperti motif gerimis.</p><p><br></p><p>Detail Produk :</p><p>- Full Kancing</p><p>- Saku Depan</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_082_BLUE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE082/2406030944-BAE082-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE082/2406030944-BAE082-3.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_082_BLUE.jpeg",
+  "thumbnails_size_cart": "https://media.nbrscorp.co.id/gudang-online-nibras-web/sizechart/sizepacks_old/non-sarimbit-49-55-koko-nibras.jpg",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "nk-082",
+    "nk-082"
+  ],
+  "meta_slug": "nk-082",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BAE082",
+      "price_tags": 188000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_082_BLUE.jpeg",
+      "sku": "BAE08202160",
+      "variant1_size": "XS",
+      "variant2_color": "TAUPE",
+      "stock": 58,
+      "flag_stock_available": true,
+      "package_weight": 220,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE082",
+      "price_tags": 188000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_082_BLUE.jpeg",
+      "sku": "BAE08202336",
+      "variant1_size": "XS",
+      "variant2_color": "BLUE",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 220,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE082",
+      "price_tags": 188000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_082_BLUE.jpeg",
+      "sku": "BAE08203160",
+      "variant1_size": "S",
+      "variant2_color": "TAUPE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 220,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE082",
+      "price_tags": 188000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_082_BLUE.jpeg",
+      "sku": "BAE08203336",
+      "variant1_size": "S",
+      "variant2_color": "BLUE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 220,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

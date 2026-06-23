@@ -1,0 +1,115 @@
+{
+  "product_id": "KAC088",
+  "name_product": "TSURAYAA SCARVES",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Scarves",
+  "description": "<p>Material Nibras Voal</p><p>Nibras Voal memiliki karakteristik anyaman benang dengan kerapatan yang pas sehingga sangat mudah dibentuk dan penggunanya akan merasa sejuk. Memiliki efek kilap yang pas dan tidak berbulu, sangat pas digunakan untuk acara formal ataupun untuk digunakan sehari-hari.</p><p><br></p><p>Detail Produk :</p><p>- Size Hijab : 130x130 cm</p><p>- Tersedia 6 Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NH_Tsuraya_-_Gabungan.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC088/2405291237-KAC088-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC088/2406241002-KAC088-4.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC088/2406241002-KAC088-7.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC088/2406241002-KAC088-3.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC088/2406241002-KAC088-5.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC088/2406241002-KAC088-6.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NH_Tsuraya_-_Gabungan.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "tsurayaa-scarves",
+    "tsurayaa-scarves"
+  ],
+  "meta_slug": "tsurayaa-scarves",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAC088",
+      "price_tags": 119500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NH_Tsuraya_-_Gabungan.jpg",
+      "sku": "KAC08800246",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "SAGE",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 90,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC088",
+      "price_tags": 119500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NH_Tsuraya_-_Gabungan.jpg",
+      "sku": "KAC08800300",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "COKLAT",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 90,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC088",
+      "price_tags": 119500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NH_Tsuraya_-_Gabungan.jpg",
+      "sku": "KAC08800340",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "COKLAT MUDA",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 90,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC088",
+      "price_tags": 119500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NH_Tsuraya_-_Gabungan.jpg",
+      "sku": "KAC08800500",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "HIJAU",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 90,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC088",
+      "price_tags": 119500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NH_Tsuraya_-_Gabungan.jpg",
+      "sku": "KAC08800600",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BIRU",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 90,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC088",
+      "price_tags": 119500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NH_Tsuraya_-_Gabungan.jpg",
+      "sku": "KAC08800900",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "UNGU",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 90,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 25
+}

@@ -1,0 +1,56 @@
+{
+  "product_id": "KAO089",
+  "name_product": "ES ERAKU SCARVES",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "NBRS Rayya Series 2026",
+  "description": "<p>Material Bahan Voal Symphony Tryspum</p><p>Bahan kain Voal Symphony Tryspan adalah jenis kain voile premium berbasis poliester yang sangat ringan, lembut, dan nyaman, populer untuk hijab. Dikenal karena teksturnya yang halus, tidak mudah kusut, dan kemampuannya untuk tegak di dahi. Bahannya awet, tidak licin, dan tidak membuat pengang di telinga, sering dipakai untuk hijab printing.</p><p><br></p><p>~ Size 115 x 115 cm</p><p>~ Tersedia 2 Varian Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO089/260227081158-KAO089.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO089/260227081203-KAO089.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO089/260227081208-KAO089.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO089/260227081216-KAO089.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO089/260227081220-KAO089.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO089/260227081236-KAO089-LILAC.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO089/260227081242-KAO089-MOCCA.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO089/thumbnail-260227081151-KAO089.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2026-02-27T01:12:55.336Z",
+  "variants": [
+    {
+      "code_model": "KAO089",
+      "price_tags": 79000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO089/260227081236-KAO089-LILAC.jpeg",
+      "sku": "K2515AO08900117",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "LILAC",
+      "stock": 30,
+      "flag_stock_available": true,
+      "package_weight": 116,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO089",
+      "price_tags": 79000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO089/260227081242-KAO089-MOCCA.jpeg",
+      "sku": "K2515AO08900331",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MOCCA",
+      "stock": 31,
+      "flag_stock_available": true,
+      "package_weight": 116,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

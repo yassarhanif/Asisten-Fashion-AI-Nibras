@@ -1,0 +1,85 @@
+{
+  "product_id": "KAA090",
+  "name_product": "STARLA SQUARE",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Hijab Square",
+  "description": "<p>Material Voal</p><p><br></p><p>Detail Produk :</p><p>- Size Hijab : 110x110 cm</p><p>- Tersedia 4 Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/01_All_Starla.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAA090/2407170625-KAA090-2.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAA090/2407170625-KAA090-3.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAA090/2407170625-KAA090-4.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAA090/2407170625-KAA090-5.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/01_All_Starla.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "starla-square",
+    "starla-square"
+  ],
+  "meta_slug": "starla-square",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAA090",
+      "price_tags": 39000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAA090/2407170625-KAA090-K-A-undefined.jpeg",
+      "sku": "KAA09000142",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "PUTIH",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 118,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAA090",
+      "price_tags": 39000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAA090/2407180841-KAA090-K-A-undefined.jpeg",
+      "sku": "KAA09000300",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "COKLAT",
+      "stock": 6,
+      "flag_stock_available": true,
+      "package_weight": 118,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAA090",
+      "price_tags": 39000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAA090/240718094222-KAA090-KAA09000632.jpeg",
+      "sku": "KAA09000632",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "NAVY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 118,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAA090",
+      "price_tags": 39000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAA090/240718094237-KAA090-KAA09000713.jpeg",
+      "sku": "KAA09000713",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MAROON",
+      "stock": 5,
+      "flag_stock_available": true,
+      "package_weight": 118,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

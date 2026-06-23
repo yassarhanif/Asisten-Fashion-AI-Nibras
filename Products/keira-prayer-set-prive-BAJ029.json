@@ -1,0 +1,73 @@
+{
+  "product_id": "BAJ029",
+  "name_product": "KEIRA PRAYER SET PRIVE",
+  "new_product": true,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "Mukena",
+  "description": "<p>Material Bahan Jacquard Feather</p><p><br></p><p>Detail Produk :</p><p>- Zipper</p><p>- Tali Clean Finish</p><p>- Tas Mukena</p><p><span style=\"color: rgb(2, 8, 23);\">- Sajadah ini</span></p><p>- Tersedia 3 Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ029/260227083018-BAJ029.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ029/260227083022-BAJ029.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ029/260227083027-BAJ029.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ029/260227083033-BAJ029.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ029/260227083041-BAJ029.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ029/260227083047-BAJ029.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ029/260227083057-BAJ029.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ029/260227083116-BAJ029-PLUM.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ029/260227083121-BAJ029-BLACK.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ029/260227083126-BAJ029-IVORY.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ029/thumbnail-260227083012-BAJ029.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2026-02-27T01:31:44.505Z",
+  "variants": [
+    {
+      "code_model": "BAJ029",
+      "price_tags": 439000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ029/260227083116-BAJ029-PLUM.jpeg",
+      "sku": "B2515AJ02900128",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "PLUM",
+      "stock": 29,
+      "flag_stock_available": true,
+      "package_weight": 640,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BAJ029",
+      "price_tags": 439000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ029/260227083121-BAJ029-BLACK.jpeg",
+      "sku": "B2515AJ02900202",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLACK",
+      "stock": 27,
+      "flag_stock_available": true,
+      "package_weight": 640,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BAJ029",
+      "price_tags": 439000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ029/260227083126-BAJ029-IVORY.jpeg",
+      "sku": "B2515AJ02900223",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "IVORY",
+      "stock": 29,
+      "flag_stock_available": true,
+      "package_weight": 640,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

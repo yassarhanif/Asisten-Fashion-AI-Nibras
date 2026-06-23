@@ -1,0 +1,112 @@
+{
+  "product_id": "KAD008",
+  "name_product": "AKP 003",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Ciput",
+  "description": "<p>Ciput Seamless dengan bahan spandek yang elastis dan tidak licin. Seamless tanpa jahitan pada bagian kepala sehingga saat menggunakan hijab akan terlihat sangat rapi. Penggunanya tidak akan merasa sakit pada bagian telinga, Super Comfy!!</p><p>Material Jerika, merupakan jenis kain stretch, halus dan lembut. Karakter kainnya breathable, pastinya sangat adem dan nyaman digunakan.</p><p><br></p><p>Detail Produk :</p><p>- Size Ciput 20x26 cm</p><p>- Tersedia 6 Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD008/2405280356-KAD008-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD008/2405280356-KAD008-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD008/2405280356-KAD008-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD008/2405280356-KAD008-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD008/2405280356-KAD008-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD008/2405280356-KAD008-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ALL.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD008/2405280356-thumbnail-KAD008.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAD008",
+      "price_tags": 15000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD008/240821025311-KAD008-KAD00800202.jpeg",
+      "sku": "KAD00800202",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLACK",
+      "stock": 12,
+      "flag_stock_available": true,
+      "package_weight": 45,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAD008",
+      "price_tags": 15000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD008/240821025307-KAD008-KAD00800242.jpeg",
+      "sku": "KAD00800242",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "LIGHT BROWN",
+      "stock": 39,
+      "flag_stock_available": true,
+      "package_weight": 45,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAD008",
+      "price_tags": 15000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD008/240821025302-KAD008-KAD00800253.jpeg",
+      "sku": "KAD00800253",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "SILVER GREY",
+      "stock": 7,
+      "flag_stock_available": true,
+      "package_weight": 45,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAD008",
+      "price_tags": 15000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD008/2406240906-KAD008-K-A-undefined.jpeg",
+      "sku": "KAD00800761",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "SAND",
+      "stock": 37,
+      "flag_stock_available": true,
+      "package_weight": 45,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAD008",
+      "price_tags": 15000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD008/KAD008-NAVY-undefined.jpeg",
+      "sku": "KAD00800632",
+      "variant1_size": "ALLSIZE",
+      "variant2_color": "NAVY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 45,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAD008",
+      "price_tags": 15000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD008/KAD008-MILO-undefined.jpeg",
+      "sku": "KAD00800411",
+      "variant1_size": "ALLSIZE",
+      "variant2_color": "MILO",
+      "stock": 26,
+      "flag_stock_available": true,
+      "package_weight": 45,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 20
+}

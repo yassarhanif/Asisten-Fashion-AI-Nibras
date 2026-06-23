@@ -1,0 +1,82 @@
+{
+  "product_id": "BCD005",
+  "name_product": "LITTA",
+  "new_product": false,
+  "brand": {
+    "name_brand": "alnita"
+  },
+  "category3": "Alnita Tunik",
+  "description": "<p>Bahan Mondovi, masuk kedalam kelompok kain Drop Needle yang merupakan kain rajutan ganda (Double Knit). Bahan ini memiliki karakteristik tekstur salur yang timbul di bagian permukaan luar dan lembut pada bagian dalam.</p><p>Material ini sangat nyaman digunakan karena memiliki handfeel ringan, elastis dan jatuh. Kain Mondovi juga memiliki daya serap yang baik sehingga busana siap untuk menunjang daily activity mu.</p><p><br></p><p>Detail Produk :</p><p>- Saku Depan</p><p>- Variasi Tali Buckle</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-8.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-9.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-10.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-11.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-12.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-13.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-14.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-16.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-15.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-17.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCD005/2405270121-BCD005-18.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/LITTA_MOONLIGHT.jpeg",
+  "thumbnails_size_cart": "https://media.nbrscorp.co.id/gudang-online-nibras-web/sizechart/sizepacks_old/WhatsApp_Image_2019-10-31_at_14.52_.49_.jpeg",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "litta",
+    "litta"
+  ],
+  "meta_slug": "litta",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BCD005",
+      "price_tags": 175000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/LITTA_MOONLIGHT.jpeg",
+      "sku": "BCD00503147",
+      "variant1_size": "S",
+      "variant2_color": "TERRACOTTA",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 416,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCD005",
+      "price_tags": 175000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/LITTA_MOONLIGHT.jpeg",
+      "sku": "BCD00503576",
+      "variant1_size": "S",
+      "variant2_color": "IVY GREEN",
+      "stock": 3,
+      "flag_stock_available": true,
+      "package_weight": 416,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCD005",
+      "price_tags": 175000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/LITTA_MOONLIGHT.jpeg",
+      "sku": "BCD00503935",
+      "variant1_size": "S",
+      "variant2_color": "MOONLIGHT",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 416,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

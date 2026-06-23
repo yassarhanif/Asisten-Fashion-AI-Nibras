@@ -1,0 +1,102 @@
+{
+  "product_id": "SAF009",
+  "name_product": "ORIKATA",
+  "new_product": true,
+  "brand": {
+    "name_brand": "nbrs footwear"
+  },
+  "category3": "Sling Bag",
+  "description": "<p>*ORIKATA Sling Bag by NBRS Footwear*</p><p><br></p><p>Material Synthetic Leather</p><p><br></p><p>Detail Produk :</p><p>- Tersedia 5 Warna</p><p>- Compact Size</p><p>- Sling Strap Adjustable</p><p>- Metal Ring Material</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/SAF009/241011111550-SAF009.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/SAF009/241014020943-SAF009.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/SAF009/241011111600-SAF009-BLACK.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/SAF009/241011111604-SAF009-BROWN.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/SAF009/241011111609-SAF009-CREAM.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/SAF009/241011111614-SAF009-DARK%20GREY.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/SAF009/241011111616-SAF009-MOCCA.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/SAF009/thumbnail-241011111547-SAF009.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": "ORIKATA",
+  "meta_keywords": [
+    "ORIKATA",
+    "ORIKATA",
+    "ORIKATA BAG"
+  ],
+  "meta_slug": "ORIKATA",
+  "created_at": "2024-10-11T04:22:33.887Z",
+  "variants": [
+    {
+      "code_model": "SAF009",
+      "price_tags": 129000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/SAF009/241011111609-SAF009-CREAM.jpeg",
+      "sku": "S2401AF00900008",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "CREAM",
+      "stock": 12,
+      "flag_stock_available": true,
+      "package_weight": 230,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "SAF009",
+      "price_tags": 129000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/SAF009/241011111614-SAF009-DARK%20GREY.jpeg",
+      "sku": "S2401AF00900135",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "DARK GREY",
+      "stock": 14,
+      "flag_stock_available": true,
+      "package_weight": 230,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "SAF009",
+      "price_tags": 129000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/SAF009/241011111600-SAF009-BLACK.jpeg",
+      "sku": "S2401AF00900202",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLACK",
+      "stock": 7,
+      "flag_stock_available": true,
+      "package_weight": 230,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "SAF009",
+      "price_tags": 129000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/SAF009/241011111604-SAF009-BROWN.jpeg",
+      "sku": "S2401AF00900302",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BROWN",
+      "stock": 9,
+      "flag_stock_available": true,
+      "package_weight": 230,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "SAF009",
+      "price_tags": 129000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/SAF009/241011111616-SAF009-MOCCA.jpeg",
+      "sku": "S2401AF00900331",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MOCCA",
+      "stock": 11,
+      "flag_stock_available": true,
+      "package_weight": 230,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

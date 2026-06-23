@@ -1,0 +1,57 @@
+{
+  "product_id": "BBQ002",
+  "name_product": "IO 002",
+  "new_product": false,
+  "brand": {
+    "name_brand": "youth inspire"
+  },
+  "category3": "YINS Outer",
+  "description": "<p>Bahan Serat Kayu adalah bahan yang lembut, bertextur garis seperti kayu, &amp;polyester;.</p><p><br></p><p>Saku Depan</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-9.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-8.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-10.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-11.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-13.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-14.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-12.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-15.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-17.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-16.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-18.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-19.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-BBQ002-20.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ002/2405250904-thumbnail-BBQ002.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "io-002",
+    "io-002"
+  ],
+  "meta_slug": "io-002",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BBQ002",
+      "price_tags": 102000,
+      "thumbnails": "\"\"",
+      "sku": "BBQ00202503",
+      "variant1_size": "XS",
+      "variant2_color": "HIJAU MINT",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 162,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

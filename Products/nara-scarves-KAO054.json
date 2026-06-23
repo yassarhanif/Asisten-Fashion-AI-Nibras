@@ -1,0 +1,72 @@
+{
+  "product_id": "KAO054",
+  "name_product": "NARA SCARVES",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Scarves",
+  "description": "<p>Material Bahan Voal Prince</p><p>Bahan hijab Voal Prince adalah kain yang memiliki banyak keunggulan, diantaranya yaitu adem, <em>breathable</em>, tidak mudah kusut, dan mudah dibentuk. Memiliki karakteristik handfeel yang halus, fleksibel dan tidak licin, dengan tekstur lembut dengan serat terlihat jelas dan nyaman untuk dipakai.</p><p><br></p><p>~ Size 115 x 115 cm</p><p>~ Tersedia 3 Varian Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO054/250314124506-KAO054.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO054/250314124515-KAO054.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO054/250314124520-KAO054.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO054/250314124524-KAO054.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO054/250314124529-KAO054.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO054/250314124532-KAO054.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO054/250314124548-KAO054-GREY.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO054/250314124602-KAO054-ROSE%20TAUPE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO054/250314124606-KAO054-TERRACOTTA.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO054/thumbnail-250314124502-KAO054.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2025-03-14T05:46:24.385Z",
+  "variants": [
+    {
+      "code_model": "KAO054",
+      "price_tags": 89000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO054/250314124606-KAO054-TERRACOTTA.jpeg",
+      "sku": "K2415AO05400147",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "TERRACOTTA",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 112,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAO054",
+      "price_tags": 89000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO054/250314124602-KAO054-ROSE%20TAUPE.jpeg",
+      "sku": "K2415AO05400155",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "ROSE TAUPE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 112,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAO054",
+      "price_tags": 89000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO054/250314124548-KAO054-GREY.jpeg",
+      "sku": "K2415AO05400205",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "GREY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 112,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 20
+}

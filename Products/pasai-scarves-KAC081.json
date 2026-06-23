@@ -1,0 +1,115 @@
+{
+  "product_id": "KAC081",
+  "name_product": "PASAI SCARVES",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "JINI Scarves",
+  "description": "<p>Material Nibras Voal Ultra Light adalah jenis material hijab katun voal terbaik yang dikenal super nyaman dikenakan. Bahan ini kainnya tidak terlihat transparan, namun juga tidak terlalu tebal, super ringan, lembut dengan bahan kain yang terang. Mudah dibentuk dan mampu membantu menyerap keringat dengan baik.</p><p><br></p><p>Detail Produk :</p><p>- Size Hijab 120x120 cm</p><p>- Tersedia 6 Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/0112.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC081/2405290138-KAC081-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC081/2405290138-KAC081-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC081/2405290138-KAC081-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC081/2405290138-KAC081-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC081/2405290138-KAC081-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC081/2405290138-KAC081-3.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/0112.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "pasai-scarves",
+    "pasai-scarves"
+  ],
+  "meta_slug": "pasai-scarves",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAC081",
+      "price_tags": 140000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/0112.jpg",
+      "sku": "KAC08100034",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "AVOCADO",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 162,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC081",
+      "price_tags": 140000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/0112.jpg",
+      "sku": "KAC08100135",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "DARK GREY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 162,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC081",
+      "price_tags": 140000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/0112.jpg",
+      "sku": "KAC08100219",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MISTY GREY",
+      "stock": 10,
+      "flag_stock_available": true,
+      "package_weight": 162,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC081",
+      "price_tags": 140000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/0112.jpg",
+      "sku": "KAC08100679",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "RED",
+      "stock": 5,
+      "flag_stock_available": true,
+      "package_weight": 162,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC081",
+      "price_tags": 140000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/0112.jpg",
+      "sku": "KAC08100704",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "DUSTY PINK",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 162,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC081",
+      "price_tags": 140000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC081/241130085150-KAC081-MOCCA.jpeg",
+      "sku": "KAC08100331",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MOCCA",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 162,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 25
+}

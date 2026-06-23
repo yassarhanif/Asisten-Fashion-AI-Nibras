@@ -1,0 +1,96 @@
+{
+  "product_id": "BAA678",
+  "name_product": "BESTIE SERIES 7A",
+  "new_product": true,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "NBRS Gamis Dewasa",
+  "description": "<p>Material&nbsp;Bahan Meralda mix Salur Ventura</p><p>- Kain Meralda masuk kedalam kategori kain woven yang terdiri dari komposisi benang rayon dan teteron serta teknik anyaman dobby sehingga karakter kain tersebut jatuh, lembut dan bertekstur. Salahsatu unsur benang dominannya yaitu Rayon yang memiliki daya serap tinggi seperti katun, sehingga tekstur permukaannya halus dan tidak mudah kusut.</p><p>- Kain Salur Ventura dikenal sebagai bahan yang lembut, halus, kainnya tidak kaku alias flowly, sehingga memudahkan gerak penggunanya. Sangat cocok digunakan sebagai material outfit formal dan semi formal look.</p><p><br></p><p>Detail Produk :</p><p>- Kerah Shanghai</p><p>- Busui Friendly</p><p>- Saku Sisi</p><p>- Variasi Lipit</p><p>- Lengan Manset dan Kancing</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA678/241125092943-BAA678.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA678/241125092946-BAA678.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA678/241125092948-BAA678.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA678/241125093648-BAA678.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA678/241125093554-BAA678.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA678/thumbnail-241125092941-BAA678.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2024-11-25T02:30:11.997Z",
+  "variants": [
+    {
+      "code_model": "BAA678",
+      "price_tags": 258000,
+      "thumbnails": "",
+      "sku": "B2401AA67803117",
+      "variant1_size": "S",
+      "variant2_color": "LILAC",
+      "stock": 29,
+      "flag_stock_available": true,
+      "package_weight": 420,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAA678",
+      "price_tags": 258000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA678/241125093533-BAA678-B2401AA67804117.jpeg",
+      "sku": "B2401AA67804117",
+      "variant1_size": "M",
+      "variant2_color": "LILAC",
+      "stock": 27,
+      "flag_stock_available": true,
+      "package_weight": 420,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAA678",
+      "price_tags": 258000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA678/241125093531-BAA678-B2401AA67805117.jpeg",
+      "sku": "B2401AA67805117",
+      "variant1_size": "L",
+      "variant2_color": "LILAC",
+      "stock": 33,
+      "flag_stock_available": true,
+      "package_weight": 440,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAA678",
+      "price_tags": 258000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA678/241125093524-BAA678-B2401AA67806117.jpeg",
+      "sku": "B2401AA67806117",
+      "variant1_size": "XL",
+      "variant2_color": "LILAC",
+      "stock": 30,
+      "flag_stock_available": true,
+      "package_weight": 440,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAA678",
+      "price_tags": 270000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA678/241125093520-BAA678-B2401AA67807117.jpeg",
+      "sku": "B2401AA67807117",
+      "variant1_size": "XXL",
+      "variant2_color": "LILAC",
+      "stock": 32,
+      "flag_stock_available": true,
+      "package_weight": 460,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 10
+}

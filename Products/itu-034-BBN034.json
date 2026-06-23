@@ -1,0 +1,127 @@
+{
+  "product_id": "BBN034",
+  "name_product": "ITU 034",
+  "new_product": false,
+  "brand": {
+    "name_brand": "youth inspire"
+  },
+  "category3": "YINS Tunik",
+  "description": "<p>Material Cordova merupakan kategori Woven Fabric yang terdiri dari komposisi benang Cotton yang dipadukan dengan benang PE. Karakter material kain ini bertekstur halus, ketebalannya medium dengan kemampuan daya serap keringat yang baik karena mengandung Cotton.</p><p><br></p><p>Detail Produk :</p><p>- Busui Friendly</p><p>- Saku Sisi</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBN034/2405301041-BBN034-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBN034/2405301041-BBN034-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBN034/2405301041-BBN034-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBN034/2405301041-BBN034-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBN034/2405301041-BBN034-6.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_034_BEAVER_FUR.jpeg",
+  "thumbnails_size_cart": "https://media.nbrscorp.co.id/gudang-online-nibras-web/sizechart/sizepacks_old/WhatsApp_Image_2019-10-23_at_11.40_.04_2.jpeg",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "itu-034",
+    "itu-034"
+  ],
+  "meta_slug": "itu-034",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BBN034",
+      "price_tags": 142000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_034_BEAVER_FUR.jpeg",
+      "sku": "BBN03402270",
+      "variant1_size": "XS",
+      "variant2_color": "BLUE WING TEAL",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 242,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBN034",
+      "price_tags": 142000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_034_BEAVER_FUR.jpeg",
+      "sku": "BBN03402271",
+      "variant1_size": "XS",
+      "variant2_color": "BLOOMING DAHLIA",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 242,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBN034",
+      "price_tags": 142000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_034_BEAVER_FUR.jpeg",
+      "sku": "BBN03402272",
+      "variant1_size": "XS",
+      "variant2_color": "BEAVER FUR",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 242,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBN034",
+      "price_tags": 142000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_034_BEAVER_FUR.jpeg",
+      "sku": "BBN03402273",
+      "variant1_size": "XS",
+      "variant2_color": "SHARK",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 242,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBN034",
+      "price_tags": 142000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_034_BEAVER_FUR.jpeg",
+      "sku": "BBN03403270",
+      "variant1_size": "S",
+      "variant2_color": "BLUE WING TEAL",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 242,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBN034",
+      "price_tags": 157000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_034_BEAVER_FUR.jpeg",
+      "sku": "BBN03407270",
+      "variant1_size": "XXL",
+      "variant2_color": "BLUE WING TEAL",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 280,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBN034",
+      "price_tags": 157000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_034_BEAVER_FUR.jpeg",
+      "sku": "BBN03407272",
+      "variant1_size": "XXL",
+      "variant2_color": "BEAVER FUR",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 280,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

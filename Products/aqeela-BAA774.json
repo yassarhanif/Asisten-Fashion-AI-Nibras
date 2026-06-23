@@ -1,0 +1,110 @@
+{
+  "product_id": "BAA774",
+  "name_product": "AQEELA",
+  "new_product": true,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "NBRS Gamis Dewasa",
+  "description": "<p>Material Bahan Linen</p><p>Bahan linen adalah serat alami yang diekstraksi dari tanaman rami (Linum usitatissimum). Bahan ini dikenal kuat, tahan lama, dan memiliki kemampuan menyerap keringat yang baik, menjadikannya pilihan populer untuk pakaian dan produk tekstil rumah tangga. Linen juga terasa dingin saat dikenakan, bertekstur ringan dan halus, serta memiliki sifat antimikroba.</p><p><br></p><p>Detail Produk :</p><p>- Saku Sisi</p><p>- Busui Frendly</p><p>- Kerah Kemeja</p><p>- Variasi Lipit</p><p>- Motif Bordir</p><p><span style=\"color: rgb(2, 8, 23);\">- Manset kancing</span></p><p><span style=\"color: rgb(2, 8, 23);\">- Variasi Belt</span></p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA774/250704043924-BAA774.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA774/250704043916-BAA774.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA774/250704044208-BAA774-BROKEN%20WHITE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA774/250704045102-BAA774.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA774/250704045112-BAA774.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA774/thumbnail-250704043802-BAA774.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2025-07-04T11:43:47.646Z",
+  "variants": [
+    {
+      "code_model": "BAA774",
+      "price_tags": 358000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA774/250704044208-BAA774-BROKEN%20WHITE.jpeg",
+      "sku": "B2501AA77402102",
+      "variant1_size": "XS",
+      "variant2_color": "BROKEN WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 400,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAA774",
+      "price_tags": 358000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA774/250704044208-BAA774-BROKEN%20WHITE.jpeg",
+      "sku": "B2501AA77403102",
+      "variant1_size": "S",
+      "variant2_color": "BROKEN WHITE",
+      "stock": 5,
+      "flag_stock_available": true,
+      "package_weight": 400,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAA774",
+      "price_tags": 358000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA774/250704044208-BAA774-BROKEN%20WHITE.jpeg",
+      "sku": "B2501AA77404102",
+      "variant1_size": "M",
+      "variant2_color": "BROKEN WHITE",
+      "stock": 4,
+      "flag_stock_available": true,
+      "package_weight": 450,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAA774",
+      "price_tags": 358000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA774/250704044208-BAA774-BROKEN%20WHITE.jpeg",
+      "sku": "B2501AA77405102",
+      "variant1_size": "L",
+      "variant2_color": "BROKEN WHITE",
+      "stock": 6,
+      "flag_stock_available": true,
+      "package_weight": 450,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAA774",
+      "price_tags": 358000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA774/250704044208-BAA774-BROKEN%20WHITE.jpeg",
+      "sku": "B2501AA77406102",
+      "variant1_size": "XL",
+      "variant2_color": "BROKEN WHITE",
+      "stock": 8,
+      "flag_stock_available": true,
+      "package_weight": 500,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAA774",
+      "price_tags": 370000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAA774/250704044208-BAA774-BROKEN%20WHITE.jpeg",
+      "sku": "B2501AA77407102",
+      "variant1_size": "XXL",
+      "variant2_color": "BROKEN WHITE",
+      "stock": 7,
+      "flag_stock_available": true,
+      "package_weight": 550,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 0
+}

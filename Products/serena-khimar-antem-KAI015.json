@@ -1,0 +1,73 @@
+{
+  "product_id": "KAI015",
+  "name_product": "SERENA KHIMAR ANTEM",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Khimar",
+  "description": "<p><span style=\"color: rgb(96, 96, 96);\">Bahan Diamond</span></p><p><span style=\"color: rgb(96, 96, 96);\">adalah bahan yang bertekstur seperti kulit jeruk, lembut, tidak mudat kusut, &amp; ringan.</span></p><p><br></p><p><span style=\"color: rgb(96, 96, 96);\">Detail:</span></p><p><span style=\"color: rgb(96, 96, 96);\">-Size 90 x 110 cm</span></p><p><span style=\"color: rgb(96, 96, 96);\">-Pad Antem</span></p><p><span style=\"color: rgb(96, 96, 96);\">-Variasi List</span></p><p><br></p><p><span style=\"color: rgb(96, 96, 96);\">*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</span></p><p><span style=\"color: rgb(96, 96, 96);\">**Kesesuaian standard sizepack dengan asli 1-2cm</span></p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI015/2406140926-KAI015-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI015/2406140926-KAI015-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI015/2406140926-KAI015-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI015/2406140926-KAI015-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI015/2406140926-KAI015-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI015/2406140926-KAI015-8.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI015/2406140926-KAI015-7.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI015/2406140926-thumbnail-KAI015.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "serena-khimar-antem",
+    "serena-khimar-antem"
+  ],
+  "meta_slug": "serena-khimar-antem",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAI015",
+      "price_tags": 140000,
+      "thumbnails": "\"\"",
+      "sku": "KAI01500702",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "PINK",
+      "stock": 9,
+      "flag_stock_available": true,
+      "package_weight": 270,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAI015",
+      "price_tags": 140000,
+      "thumbnails": "\"\"",
+      "sku": "KAI01500721",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "SALEM",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 270,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAI015",
+      "price_tags": 140000,
+      "thumbnails": "\"\"",
+      "sku": "KAI01500900",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "UNGU",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 270,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

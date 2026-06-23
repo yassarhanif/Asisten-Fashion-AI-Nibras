@@ -1,0 +1,114 @@
+{
+  "product_id": "KAC091",
+  "name_product": "TERNATE SCARVES",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Scarves",
+  "description": "<p>Material Nibras Voal Ultra Shiny</p><p><br></p><p>Detail Produk :</p><p>- Size Hijab : 120x120 cm</p><p>- Tersedia 6 Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC091/2405291237-KAC091-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC091/2405291237-KAC091-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC091/2405291237-KAC091-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC091/2405291237-KAC091-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC091/2405291237-KAC091-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC091/2405291237-KAC091-5.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC091/2405291237-thumbnail-KAC091.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "ternate-scarves",
+    "ternate-scarves"
+  ],
+  "meta_slug": "ternate-scarves",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAC091",
+      "price_tags": 120000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NH_Ternate_-_layout_16_9_-_Apricot.jpg",
+      "sku": "KAC09100067",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "OLIVE",
+      "stock": 4,
+      "flag_stock_available": true,
+      "package_weight": 90,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC091",
+      "price_tags": 120000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NH_Ternate_-_layout_16_9_-_Apricot.jpg",
+      "sku": "KAC09100300",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "COKLAT",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 90,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC091",
+      "price_tags": 120000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NH_Ternate_-_layout_16_9_-_Apricot.jpg",
+      "sku": "KAC09100600",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BIRU",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 90,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC091",
+      "price_tags": 120000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NH_Ternate_-_layout_16_9_-_Apricot.jpg",
+      "sku": "KAC09100886",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "APRICOT",
+      "stock": 4,
+      "flag_stock_available": true,
+      "package_weight": 90,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC091",
+      "price_tags": 120000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NH_Ternate_-_layout_16_9_-_Apricot.jpg",
+      "sku": "KAC09100900",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "UNGU",
+      "stock": 22,
+      "flag_stock_available": true,
+      "package_weight": 90,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC091",
+      "price_tags": 120000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NH_Ternate_-_layout_16_9_-_Apricot.jpg",
+      "sku": "KAC09100930",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "UNGU TUA ",
+      "stock": 13,
+      "flag_stock_available": true,
+      "package_weight": 90,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 25
+}

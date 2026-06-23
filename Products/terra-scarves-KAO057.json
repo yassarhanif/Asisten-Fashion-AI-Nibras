@@ -1,0 +1,120 @@
+{
+  "product_id": "KAO057",
+  "name_product": "TERRA SCARVES",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Scarves",
+  "description": "<p>Material Hijab Bahan Voal Miracle</p><p>Bahan Voal Miracle adalah&nbsp;kain premium yang halus, ringan, dan lembut.&nbsp;Kain ini juga dikenal sebagai voal premium.&nbsp;Karakteristik bahan Voal Miracle yaitu memiliki tekstur yang halus, tidak kaku dan sangat mudah dibentuk, <em>breathable</em> dan mampu menyerap keringat dengan sangat baik, tidak mudah kusut dan tahan lama.</p><p><br></p><p>~ Size 115 x 115 cm</p><p>~ Tersedia 6 Varian Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250206091925-KAO057-BEIGE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250305113436-KAO057.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250206091928-KAO057-BLUE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250305113439-KAO057.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250206091931-KAO057-MAUVE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250305113444-KAO057.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250206091933-KAO057-ROSE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250305113451-KAO057.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250206091936-KAO057-WHITE%20BEIGE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250305113455-KAO057.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250206091938-KAO057-WHITE%20ROSE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250305113459-KAO057.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/thumbnail-250305113551-KAO057.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": "terra scarves",
+  "meta_keywords": [
+    "TERRA",
+    "SCARVES"
+  ],
+  "meta_slug": "terra scarves",
+  "created_at": "2025-02-06T02:20:21.094Z",
+  "variants": [
+    {
+      "code_model": "KAO057",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250206091925-KAO057-BEIGE.jpeg",
+      "sku": "K2415AO05700116",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BEIGE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 125,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO057",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250206091928-KAO057-BLUE.jpeg",
+      "sku": "K2415AO05700336",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLUE",
+      "stock": 47,
+      "flag_stock_available": true,
+      "package_weight": 125,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO057",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250206091931-KAO057-MAUVE.jpeg",
+      "sku": "K2415AO05700381",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MAUVE",
+      "stock": 15,
+      "flag_stock_available": true,
+      "package_weight": 125,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO057",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250206091938-KAO057-WHITE%20ROSE.jpeg",
+      "sku": "K2415AO05700406",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "WHITE ROSE",
+      "stock": 18,
+      "flag_stock_available": true,
+      "package_weight": 125,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO057",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250206091936-KAO057-WHITE%20BEIGE.jpeg",
+      "sku": "K2415AO05700596",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "WHITE BEIGE",
+      "stock": 17,
+      "flag_stock_available": true,
+      "package_weight": 125,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO057",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO057/250206091933-KAO057-ROSE.jpeg",
+      "sku": "K2415AO05700723",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "ROSE",
+      "stock": 45,
+      "flag_stock_available": true,
+      "package_weight": 125,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 20
+}

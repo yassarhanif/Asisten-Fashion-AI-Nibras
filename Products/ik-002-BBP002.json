@@ -1,0 +1,106 @@
+{
+  "product_id": "BBP002",
+  "name_product": "IK 002",
+  "new_product": false,
+  "brand": {
+    "name_brand": "youth inspire"
+  },
+  "category3": "YINS Kulot",
+  "description": "<p>Bahan Stella</p><p>adalah bahan yang halus, lembut, dan adem.</p><p><br></p><p>Detail</p><p>- Pinggang Kerut</p><p>- Kombinasi Tali Serut</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP002/2405240351-BBP002-10.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP002/2405240351-BBP002-11.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP002/2405240351-BBP002-12.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP002/2405240351-BBP002-13.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP002/2405240351-BBP002-14.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP002/2405240351-BBP002-15.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP002/2405240351-BBP002-16.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP002/2405240351-BBP002-17.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP002/2405240351-BBP002-18.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP002/2405240351-BBP002-19.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP002/2405240351-BBP002-20.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP002/2405240351-BBP002-21.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBP002/2405240438-thumbnail-BBP002.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "ik-002",
+    "ik-002"
+  ],
+  "meta_slug": "ik-002",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BBP002",
+      "price_tags": 122000,
+      "thumbnails": "\"\"",
+      "sku": "BBP00202211",
+      "variant1_size": "XS",
+      "variant2_color": "ABU MUDA",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 288,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBP002",
+      "price_tags": 122000,
+      "thumbnails": "\"\"",
+      "sku": "BBP00202300",
+      "variant1_size": "XS",
+      "variant2_color": "COKLAT",
+      "stock": 18,
+      "flag_stock_available": true,
+      "package_weight": 288,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBP002",
+      "price_tags": 122000,
+      "thumbnails": "\"\"",
+      "sku": "BBP00202632",
+      "variant1_size": "XS",
+      "variant2_color": "NAVY",
+      "stock": 10,
+      "flag_stock_available": true,
+      "package_weight": 288,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBP002",
+      "price_tags": 122000,
+      "thumbnails": "\"\"",
+      "sku": "BBP00203632",
+      "variant1_size": "S",
+      "variant2_color": "NAVY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 288,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBP002",
+      "price_tags": 122000,
+      "thumbnails": "",
+      "sku": "BBP00203211",
+      "variant1_size": "S",
+      "variant2_color": "ABUMUDA",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 288,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

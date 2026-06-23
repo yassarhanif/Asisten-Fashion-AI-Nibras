@@ -1,0 +1,100 @@
+{
+  "product_id": "PAA031",
+  "name_product": "SAN 003",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "NBRS Sarung",
+  "description": "<p>Material Bahan TC</p><p>Kain TR adalah kain campuran Teteron (poliester) dan Rayon yang memberikan kombinasi kelembutan dan kenyamanan rayon dengan kekuatan dan ketahanan poliester. Kain ini memiliki tekstur yang lembut, tidak mudah kusut, mudah dirawat, dan memiliki daya serap yang baik</p><p>Kain TC (Teteron Cotton) adalah jenis kain campuran poliester dan katun yang menawarkan kombinasi daya tahan, kekuatan, dan kelembutan. Umumnya menggunakan perbandingan 60% poliester dan 40% katun, bahan ini kuat, tidak mudah kusut, dan awet</p><p><br></p><p>Ukuran Sarung : 125cm x 210cm</p><p><br></p><p>Tersedia 4 Warna :</p><p>- Grey</p><p>- Maroon</p><p>- Green</p><p><span style=\"color: rgb(2, 8, 23);\">- Brown</span></p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA031/251003104858-PAA031.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA031/251003104908-PAA031.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA031/251003105254-PAA031.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA031/251003105503-PAA031.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA031/251003105507-PAA031.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA031/251003105545-PAA031-GREY.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA031/251003105551-PAA031-MAROON.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA031/251003105602-PAA031-BROWN.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA031/251003105608-PAA031-GREEN.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA031/thumbnail-251003105245-PAA031.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2025-10-03T03:56:33.808Z",
+  "variants": [
+    {
+      "code_model": "PAA031",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA031/251003105545-PAA031-GREY.jpeg",
+      "sku": "P2515AA03100205",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "GREY",
+      "stock": 19,
+      "flag_stock_available": true,
+      "package_weight": 386,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "PAA031",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA031/251003105602-PAA031-BROWN.jpeg",
+      "sku": "P2515AA03100302",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BROWN",
+      "stock": 35,
+      "flag_stock_available": true,
+      "package_weight": 386,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "PAA031",
+      "price_tags": 139000,
+      "thumbnails": "",
+      "sku": "P2515AA03100345",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "DARK BROWN",
+      "stock": 45,
+      "flag_stock_available": true,
+      "package_weight": 386,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "PAA031",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA031/251003105608-PAA031-GREEN.jpeg",
+      "sku": "P2515AA03100551",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "GREEN",
+      "stock": 44,
+      "flag_stock_available": true,
+      "package_weight": 386,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "PAA031",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/PAA031/251003105551-PAA031-MAROON.jpeg",
+      "sku": "P2515AA03100713",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MAROON",
+      "stock": 31,
+      "flag_stock_available": true,
+      "package_weight": 386,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

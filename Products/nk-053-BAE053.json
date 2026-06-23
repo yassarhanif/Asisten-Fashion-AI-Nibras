@@ -1,0 +1,54 @@
+{
+  "product_id": "BAE053",
+  "name_product": "NK 053",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "NBRS Koko Dewasa",
+  "description": "<p>Bahan 100%</p><p>CottonYarndyed</p><p>merupakan kain yang proses pewarnaannya dilakukan sebelum proses tenung dilakukan alias dalam bentuk benang. Benang-benang itu akan dicelup dan diberi warna sebelum kemudian dibentuk menjadi kain. Karakteristik: halus dan adem.</p><p><br></p><p>Detail</p><p>- Saku Depan</p><p>- Full Kancing</p><p>- Variasi List Motif pada Kerah</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/nk_53_1.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/nk_53_2.jpg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/nk_53_1.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "nk-053",
+    "nk-053"
+  ],
+  "meta_slug": "nk-053",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BAE053",
+      "price_tags": 168000,
+      "thumbnails": "\"\"",
+      "sku": "BAE05302200",
+      "variant1_size": "XS",
+      "variant2_color": "HITAM",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 210,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE053",
+      "price_tags": 168000,
+      "thumbnails": "\"\"",
+      "sku": "BAE05302632",
+      "variant1_size": "XS",
+      "variant2_color": "NAVY",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 210,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

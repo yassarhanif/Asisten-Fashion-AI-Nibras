@@ -1,0 +1,83 @@
+{
+  "product_id": "BAE044",
+  "name_product": "NK 046",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "NBRS Koko Dewasa",
+  "description": "<p>KATUN PRINT</p><p>adalah Polyester, bahannya tebal, bertextur motif, adem, hampir sama dengan katun jepang.</p><p><br></p><p>Detail:</p><p>-saku depan</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-19_at_11.34_.16_(1)_.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE044/2406131106-BAE044-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE044/2406131106-BAE044-3.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-19_at_11.34_.16_(1)_.jpeg",
+  "thumbnails_size_cart": "https://media.nbrscorp.co.id/gudang-online-nibras-web/sizechart/sizepacks_old/non-sarimbit-49-55-koko-nibras.jpg",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "nk-046",
+    "nk-046"
+  ],
+  "meta_slug": "nk-046",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BAE044",
+      "price_tags": 188000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-19_at_11.34_.16_(1)_.jpeg",
+      "sku": "BAE04402500",
+      "variant1_size": "XS",
+      "variant2_color": "HIJAU",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 250,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE044",
+      "price_tags": 188000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-19_at_11.34_.16_(1)_.jpeg",
+      "sku": "BAE04402713",
+      "variant1_size": "XS",
+      "variant2_color": "MAROON",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 250,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE044",
+      "price_tags": 188000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-19_at_11.34_.16_(1)_.jpeg",
+      "sku": "BAE04402733",
+      "variant1_size": "XS",
+      "variant2_color": "BIRU ELEKTRIK",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 250,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE044",
+      "price_tags": 188000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-19_at_11.34_.16_(1)_.jpeg",
+      "sku": "BAE04403500",
+      "variant1_size": "S",
+      "variant2_color": "HIJAU",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 250,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

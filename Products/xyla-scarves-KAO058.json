@@ -1,0 +1,55 @@
+{
+  "product_id": "KAO058",
+  "name_product": "XYLA SCARVES",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Scarves",
+  "description": "<p>Material Hijab Bahan Voal Miracle</p><p>Bahan Voal Miracle adalah&nbsp;kain premium yang halus, ringan, dan lembut.&nbsp;Kain ini juga dikenal sebagai voal premium.&nbsp;Karakteristik bahan Voal Miracle yaitu memiliki tekstur yang halus, tidak kaku dan sangat mudah dibentuk, <em>breathable</em> dan mampu menyerap keringat dengan sangat baik, tidak mudah kusut dan tahan lama.</p><p><br></p><p>~ Size 115 x 115 cm</p><p>~ Tersedia 2 Varian Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO058/250214113621-KAO058.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO058/250214113620-KAO058.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO058/250214113626-KAO058.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO058/250214113625-KAO058.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO058/250214113644-KAO058-PURPLE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO058/250214113647-KAO058-EMERALD.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO058/thumbnail-250214113612-KAO058.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2025-02-14T04:37:32.949Z",
+  "variants": [
+    {
+      "code_model": "KAO058",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO058/250215075713-KAO058-K2415AO05800294.jpeg",
+      "sku": "K2415AO05800294",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "EMERALD",
+      "stock": 4,
+      "flag_stock_available": true,
+      "package_weight": 125,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAO058",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO058/250215075704-KAO058-K2415AO05800905.jpeg",
+      "sku": "K2415AO05800905",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "PURPLE",
+      "stock": 22,
+      "flag_stock_available": true,
+      "package_weight": 125,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 20
+}

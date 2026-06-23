@@ -1,0 +1,101 @@
+{
+  "product_id": "KAE073",
+  "name_product": "CAMELIA BERGO",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Bergo",
+  "description": "<p>Material Spandex</p><p>Spandek adalah jenis kain yang terbuat dari bahan polimer sintetis seperti nilon atau polyester. Seperti diketahui, bahwa serat Spandex memiliki kualitas yang baik, ringan, lentur, dan lebih mudah beradaptasi dibandingkan karet. Bahan kain Spandek ini mempunyai tekstur yang halus dan lembut, cukup terasa adem saat dipakai. Meskipun memiliki jenis yang beragam, semua bahan spandek memiliki tingkat kelenturan dan daya serap panas atau keringat yang cukup baik.</p><p><br></p><p>Detail Produk :</p><p>- Size Hijab Â± 75x85cm</p><p>- Tersedia 5 Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2023-11-11_at_10.54_.43_.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE073/2405290746-KAE073-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE073/2405290746-KAE073-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE073/2405290746-KAE073-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE073/2405290746-KAE073-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE073/2405290746-KAE073-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE073/2405290746-KAE073-7.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2023-11-11_at_10.54_.43_.jpeg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "camelia-bergo",
+    "camelia-bergo"
+  ],
+  "meta_slug": "camelia-bergo",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAE073",
+      "price_tags": 64000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2023-11-11_at_10.54_.43_.jpeg",
+      "sku": "KAE07300100",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "PUTIH",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 172,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAE073",
+      "price_tags": 64000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2023-11-11_at_10.54_.43_.jpeg",
+      "sku": "KAE07300200",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "HITAM",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 172,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAE073",
+      "price_tags": 64000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2023-11-11_at_10.54_.43_.jpeg",
+      "sku": "KAE07300330",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "COKLAT KOPI ",
+      "stock": 14,
+      "flag_stock_available": true,
+      "package_weight": 172,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAE073",
+      "price_tags": 64000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2023-11-11_at_10.54_.43_.jpeg",
+      "sku": "KAE07300340",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "COKLAT MUDA",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 172,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAE073",
+      "price_tags": 64000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2023-11-11_at_10.54_.43_.jpeg",
+      "sku": "KAE07300632",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "NAVY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 172,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 25
+}

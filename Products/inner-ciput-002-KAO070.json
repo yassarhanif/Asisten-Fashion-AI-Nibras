@@ -1,0 +1,121 @@
+{
+  "product_id": "KAO070",
+  "name_product": "INNER CIPUT 002",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Ciput",
+  "description": "<p>Material Bahan Rayon</p><p>Rayon memiliki tekstur yang halus, ringan, dan terasa lembut saat disentuh, terasa mirip dengan kenyamanan serat alami seperti katun dan linen. Rayon dikenal kain yang berkilau dan tidak mudah kusut. Tidak menimbulkan rasa pusing, tidak mudah bergeser. nyaman serta menjaga tampilan hijab tetap rapi sepanjang hari.</p><p><br></p><p>Detail Produk :</p><p>- Busui Friendly</p><p>- Saku Sisi</p><p>- Lengan Manset dan Kancing</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612034739-KAO070.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612034742-KAO070.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035001-KAO070.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035005-KAO070.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035007-KAO070.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035010-KAO070.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035013-KAO070.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035016-KAO070.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035028-KAO070-BROKEN%20WHITE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035035-KAO070-BISCUIT.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035038-KAO070-BLACK.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035045-KAO070-CREAM.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035048-KAO070-SILVER.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035051-KAO070-TAUPE.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/thumbnail-250612034736-KAO070.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": "inner ciput",
+  "meta_keywords": [
+    "INNER CIPUT"
+  ],
+  "meta_slug": "inner ciput",
+  "created_at": "2025-06-12T08:51:03.373Z",
+  "variants": [
+    {
+      "code_model": "KAO070",
+      "price_tags": 29000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035045-KAO070-CREAM.jpeg",
+      "sku": "K2515AO07000008",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "CREAM",
+      "stock": 9,
+      "flag_stock_available": true,
+      "package_weight": 52,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO070",
+      "price_tags": 29000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035028-KAO070-BROKEN%20WHITE.jpeg",
+      "sku": "K2515AO07000102",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BROKEN WHITE",
+      "stock": 24,
+      "flag_stock_available": true,
+      "package_weight": 52,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO070",
+      "price_tags": 29000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035051-KAO070-TAUPE.jpeg",
+      "sku": "K2515AO07000160",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "TAUPE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 52,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO070",
+      "price_tags": 29000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035038-KAO070-BLACK.jpeg",
+      "sku": "K2515AO07000202",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLACK",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 52,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO070",
+      "price_tags": 29000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035048-KAO070-SILVER.jpeg",
+      "sku": "K2515AO07000507",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "SILVER",
+      "stock": 24,
+      "flag_stock_available": true,
+      "package_weight": 52,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO070",
+      "price_tags": 29000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO070/250612035035-KAO070-BISCUIT.jpeg",
+      "sku": "K2515AO07000869",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BISCUIT",
+      "stock": 5,
+      "flag_stock_available": true,
+      "package_weight": 52,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

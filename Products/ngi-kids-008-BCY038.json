@@ -1,0 +1,96 @@
+{
+  "product_id": "BCY038",
+  "name_product": "NGI KIDS 008",
+  "new_product": true,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "NBRS Gamis Ikhwan Kids",
+  "description": "<p>Material Bahan Romeo Dobby</p><p>Romeo Dobby merupakan salah satu kain tenun yang memiliki pola geometris kecil, memiliki tekstur yang khas dan lebih kaya (beragam) daripada bahan biasa. Kain ini memiliki berkualitas yang sangat bagus sehingga memberikan kenyamanan saat dikenakan. Bahannya kuat, tidak menerawang dan jatuh. Keunggulan lain dari Romeo Dobby adalah daya tahan yang baik, anti-kusut, mudah dirawat, tebal namun tetap breathable sehingga mudah menyerap keringat dengan baik.</p><p><br></p><p>Detail Produk :</p><p>- Kancing Depan</p><p>- Kerah Shanghai</p><p>- Saku Sisi (Kanan Kiri) yang Dilengkapi dengan Resleting</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCY038/250110030222-BCY038.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCY038/250110030226-BCY038.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCY038/250110030230-BCY038.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCY038/250110030232-BCY038.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCY038/250110030420-BCY038-WHITE.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCY038/thumbnail-250110030150-BCY038.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2025-01-10T08:06:56.083Z",
+  "variants": [
+    {
+      "code_model": "BCY038",
+      "price_tags": 228000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCY038/250110030420-BCY038-WHITE.jpeg",
+      "sku": "B2401CY03817114",
+      "variant1_size": "L8",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 280,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCY038",
+      "price_tags": 228000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCY038/250110030420-BCY038-WHITE.jpeg",
+      "sku": "B2401CY03816114",
+      "variant1_size": "L6",
+      "variant2_color": "WHITE",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 280,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCY038",
+      "price_tags": 238000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCY038/250110030420-BCY038-WHITE.jpeg",
+      "sku": "B2401CY03818114",
+      "variant1_size": "L10",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 326,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCY038",
+      "price_tags": 238000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCY038/250110030420-BCY038-WHITE.jpeg",
+      "sku": "B2401CY03819114",
+      "variant1_size": "L12",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 326,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCY038",
+      "price_tags": 238000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCY038/250110030420-BCY038-WHITE.jpeg",
+      "sku": "B2401BH01331114",
+      "variant1_size": "L14",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 358,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

@@ -1,0 +1,95 @@
+{
+  "product_id": "BBN013",
+  "name_product": "ITU 013",
+  "new_product": false,
+  "brand": {
+    "name_brand": "youth inspire"
+  },
+  "category3": "inspire tunik",
+  "description": "<p> Bahan Polycotton</p><p> Karakteristik : memiliki tekstur yang halus dan lembut, tidak mudah kusut, bahan jatuh dan tidak panas jika dikenakan.</p><p> </p><p> Detail Produk :</p><p> - Busui Friendlu</p><p> - Saku Depan</p><p> </p><p> *Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p> *Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_13_3.jpg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_13_3.jpg",
+  "thumbnails_size_cart": "https://media.nbrscorp.co.id/gudang-online-nibras-web/sizechart/sizepacks_old/WhatsApp_Image_2019-10-23_at_11.40_.04_2.jpeg",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "itu-013",
+    "itu-013"
+  ],
+  "meta_slug": "itu-013",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BBN013",
+      "price_tags": 142000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_13_3.jpg",
+      "sku": "BBN01302802",
+      "variant1_size": "XS",
+      "variant2_color": "PEACH",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 252,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBN013",
+      "price_tags": 142000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_13_3.jpg",
+      "sku": "BBN01303620",
+      "variant1_size": "S",
+      "variant2_color": "BABY BLUE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 252,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBN013",
+      "price_tags": 142000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_13_3.jpg",
+      "sku": "BBN01303802",
+      "variant1_size": "S",
+      "variant2_color": "PEACH",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 252,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBN013",
+      "price_tags": 142000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_13_3.jpg",
+      "sku": "BBN01305802",
+      "variant1_size": "L",
+      "variant2_color": "PEACH",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 272,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBN013",
+      "price_tags": 157000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITU_13_3.jpg",
+      "sku": "BBN01307802",
+      "variant1_size": "XXL",
+      "variant2_color": "PEACH",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 284,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

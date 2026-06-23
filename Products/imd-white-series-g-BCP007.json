@@ -1,0 +1,83 @@
+{
+  "product_id": "BCP007",
+  "name_product": "IMD WHITE SERIES G",
+  "new_product": false,
+  "brand": {
+    "name_brand": "youth inspire"
+  },
+  "category3": "YINS Midi Dress",
+  "description": "<p>Material Airflow Jasmine, merupakan bahan yang terbuat dari polyester yang dikerut halus (semi crinckle), bahan halus, lembut, ringan, menyerap keringat, serta tidak menerawang sehingga sangat nyaman digunakan.</p><p><br></p><p>Detail Produk :</p><p>- Busui Friendly</p><p>- Saku Sisi</p><p>- Kancing Tali</p><p>- Lengan Manset dan Kancing</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/G.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCP007/2405300249-BCP007-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCP007/2405300249-BCP007-4.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/G.jpeg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "imd-white-series-g",
+    "imd-white-series-g"
+  ],
+  "meta_slug": "imd-white-series-g",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BCP007",
+      "price_tags": 172000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/G.jpeg",
+      "sku": "BCP00702114",
+      "variant1_size": "XS",
+      "variant2_color": "WHITE",
+      "stock": 3,
+      "flag_stock_available": true,
+      "package_weight": 288,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCP007",
+      "price_tags": 172000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/G.jpeg",
+      "sku": "BCP00703114",
+      "variant1_size": "S",
+      "variant2_color": "WHITE",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 288,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCP007",
+      "price_tags": 172000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/G.jpeg",
+      "sku": "BCP00705114",
+      "variant1_size": "L",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 308,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCP007",
+      "price_tags": 187000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/G.jpeg",
+      "sku": "BCP00707114",
+      "variant1_size": "XXL",
+      "variant2_color": "WHITE",
+      "stock": 3,
+      "flag_stock_available": true,
+      "package_weight": 338,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

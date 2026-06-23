@@ -1,0 +1,71 @@
+{
+  "product_id": "BBO002",
+  "name_product": "IJ 002",
+  "new_product": false,
+  "brand": {
+    "name_brand": "youth inspire"
+  },
+  "category3": "YINS Jogger",
+  "description": "<p>Material Lexcen, termasuk kedalam kategori Woven Fabric dari benang Polyester yang dikombinasikan dengan benang Rayon. Memiliki karakteristik lembut, jatuh, dingin dan mengkilap. Handfeel dari Lexcen licin dan halus.</p><p><br></p><p>Detail Produk :</p><p>- Saku Sisi</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBO002/2405300259-BBO002-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBO002/2405300259-BBO002-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBO002/2405300259-BBO002-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBO002/2405300259-BBO002-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBO002/2405300259-BBO002-6.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBO002/2405300259-thumbnail-BBO002.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "ij-002",
+    "ij-002"
+  ],
+  "meta_slug": "ij-002",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BBO002",
+      "price_tags": 112000,
+      "thumbnails": "\"\"",
+      "sku": "BBO00202181",
+      "variant1_size": "XS",
+      "variant2_color": "GREEN ARMY",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 200,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBO002",
+      "price_tags": 112000,
+      "thumbnails": "\"\"",
+      "sku": "BBO00202206",
+      "variant1_size": "XS",
+      "variant2_color": "LIGHT GREY",
+      "stock": 6,
+      "flag_stock_available": true,
+      "package_weight": 200,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBO002",
+      "price_tags": 112000,
+      "thumbnails": "\"\"",
+      "sku": "BBO00202632",
+      "variant1_size": "XS",
+      "variant2_color": "NAVY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 200,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

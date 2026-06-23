@@ -1,0 +1,131 @@
+{
+  "product_id": "KAF031",
+  "name_product": "BINAR PASHMINA",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Pashmina",
+  "description": "<p>Material Jerika, merupakan jenis kain stretch, halus dan lembut. Karakter kainnya breathable banget, pastinya sangat adem dan nyaman digunakan.</p><p><br></p><p>Detail Produk :</p><p>- Size Hijab Â± 74x180 cm</p><p>- Tersedia 7 Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/Binar_1.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF031/2405280356-KAF031-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF031/2405280356-KAF031-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF031/2405280356-KAF031-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF031/2405280356-KAF031-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF031/2405280356-KAF031-8.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF031/2405280356-KAF031-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF031/2405280356-KAF031-9.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF031/2405280356-KAF031-4.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/Binar_1.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "binar-pashmina",
+    "binar-pashmina"
+  ],
+  "meta_slug": "binar-pashmina",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAF031",
+      "price_tags": 69500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/Binar_1.jpg",
+      "sku": "KAF03100202",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLACK",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 250,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAF031",
+      "price_tags": 69500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/Binar_1.jpg",
+      "sku": "KAF03100242",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "LIGHT BROWN",
+      "stock": 3,
+      "flag_stock_available": true,
+      "package_weight": 250,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAF031",
+      "price_tags": 69500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/Binar_1.jpg",
+      "sku": "KAF03100253",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "SILVER GREY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 250,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAF031",
+      "price_tags": 69500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/Binar_1.jpg",
+      "sku": "KAF03100411",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MILO",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 250,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAF031",
+      "price_tags": 69500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/Binar_1.jpg",
+      "sku": "KAF03100632",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "NAVY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 250,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAF031",
+      "price_tags": 69500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/Binar_1.jpg",
+      "sku": "KAF03100738",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BRICK RED",
+      "stock": 15,
+      "flag_stock_available": true,
+      "package_weight": 250,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAF031",
+      "price_tags": 69500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/Binar_1.jpg",
+      "sku": "KAF03100761",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "SAND",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 250,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 25
+}

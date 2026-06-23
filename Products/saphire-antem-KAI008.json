@@ -1,0 +1,47 @@
+{
+  "product_id": "KAI008",
+  "name_product": "SAPHIRE ANTEM",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "nh khimar instan ii layer",
+  "description": "<p> Bahan High quality cerutty</p><p> adalah bahan yang halus, lembut, elastis, teksturnya seperti kulit jeruk, dan seratnya bergelombang.</p><p> </p><p> *Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p> *Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/3275-COVER-WhatsApp-Image-2017-02-18-at-08.13.431.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/3275-G-WhatsApp-Image-2017-02-18-at-08.13.44.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/3275-G-WhatsApp-Image-2017-02-18-at-08.13.43.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/3275-G-WhatsApp-Image-2017-02-18-at-08.13.431.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/3275-G-WhatsApp-Image-2017-02-18-at-08.13.42.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/3275-G-WhatsApp-Image-2017-02-18-at-08.13.40.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/3275-G-WhatsApp-Image-2017-02-18-at-08.13.39.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/3275-G-WhatsApp-Image-2017-02-18-at-08.13.41.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-08-31_at_08.32_.40_.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/3275-COVER-WhatsApp-Image-2017-02-18-at-08.13.431.jpeg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "saphire-antem",
+    "saphire-antem"
+  ],
+  "meta_slug": "saphire-antem",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAI008",
+      "price_tags": 130000,
+      "thumbnails": "\"\"",
+      "sku": "KAI00800221",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "ABU TUA",
+      "stock": 3,
+      "flag_stock_available": true,
+      "package_weight": 300,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

@@ -1,0 +1,55 @@
+{
+  "product_id": "BAE052",
+  "name_product": "NK 052",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "NBRS Koko Dewasa",
+  "description": "<p>Bahan Cotton</p><p>Popline Print</p><p>&nbsp;</p><p>Saku Depan</p><p>Full Kancing &amp; List</p><p>&nbsp;</p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/3ca359df-afd0-4d9d-ac85-5f5122725503_-_Copy.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE052/2406131129-BAE052-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE052/2406131129-BAE052-3.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/3ca359df-afd0-4d9d-ac85-5f5122725503_-_Copy.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "nk-052",
+    "nk-052"
+  ],
+  "meta_slug": "nk-052",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BAE052",
+      "price_tags": 158000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/3ca359df-afd0-4d9d-ac85-5f5122725503_-_Copy.jpg",
+      "sku": "BAE05202200",
+      "variant1_size": "XS",
+      "variant2_color": "HITAM",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 190,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE052",
+      "price_tags": 158000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/3ca359df-afd0-4d9d-ac85-5f5122725503_-_Copy.jpg",
+      "sku": "BAE05202632",
+      "variant1_size": "XS",
+      "variant2_color": "NAVY",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 190,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

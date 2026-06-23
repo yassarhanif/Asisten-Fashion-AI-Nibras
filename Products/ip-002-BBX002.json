@@ -1,0 +1,56 @@
+{
+  "product_id": "BBX002",
+  "name_product": "IP 002",
+  "new_product": false,
+  "brand": {
+    "name_brand": "youth inspire"
+  },
+  "category3": "YINS Pants",
+  "description": "<p>Bahan Cotton Street Nyaman saat dipakai atau dikenakan, adem, sejuk bila sudah menempel pada bagian kulit, baik menyerap keringat dan juga mengikuti lekuk bentuk tubuh (Lentur).</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBX002/2405250921-BBX002-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBX002/2405250921-BBX002-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBX002/2405250921-BBX002-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBX002/2405250921-BBX002-5.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/IP_02_3.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "ip-002",
+    "ip-002"
+  ],
+  "meta_slug": "ip-002",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BBX002",
+      "price_tags": 122000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/IP_02_3.jpg",
+      "sku": "BBX00202206",
+      "variant1_size": "XS",
+      "variant2_color": "LIGHT GREY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 214,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBX002",
+      "price_tags": 122000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/IP_02_3.jpg",
+      "sku": "BBX00202632",
+      "variant1_size": "XS",
+      "variant2_color": "NAVY",
+      "stock": 4,
+      "flag_stock_available": true,
+      "package_weight": 214,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

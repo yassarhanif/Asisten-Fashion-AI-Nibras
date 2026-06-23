@@ -1,0 +1,81 @@
+{
+  "product_id": "BCG008",
+  "name_product": "BIANCA KOKO ANAK",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "Nibras Sarimbit",
+  "description": "<p>Bahan Crenzie mix Toyobo Dryfit, kain ini teksturnya lembut dan bersifat breathable, artinya udara masih bisa masuk melalui serat kain sehingga pemakainya tidak merasa panas. Mix Toyobo Dryfit karakter bahan ini lentur, padat, handfeelnya juga sangat lembut.</p><p><br></p><p>Detail Produk:</p><p>- Full Kancing</p><p>- Saku Depan</p><p>- Bahan Celana Twill 30s</p><p>- Pinggang Celana Full Karet</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/BIANCA_KOKO.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG008/2405310930-BCG008-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG008/2405310930-BCG008-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG008/2405310930-BCG008-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG008/2405310930-BCG008-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG008/2405310930-BCG008-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG008/2405310930-BCG008-11.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG008/2405310930-BCG008-14.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG008/2405310930-BCG008-8.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG008/2405310930-BCG008-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG008/2405310930-BCG008-9.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG008/2405310930-BCG008-13.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG008/2405310930-BCG008-12.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG008/2405310930-BCG008-10.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG008/2405310930-BCG008-15.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/BIANCA_KOKO.jpeg",
+  "thumbnails_size_cart": "https://media.nbrscorp.co.id/gudang-online-nibras-web/sizechart/sizepacks_old/sarimbit-49-55-nsk-koko.jpg",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "bianca-koko-anak",
+    "bianca-koko-anak"
+  ],
+  "meta_slug": "bianca-koko-anak",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BCG008",
+      "price_tags": 208000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/BIANCA_KOKO.jpeg",
+      "sku": "BCG00813205",
+      "variant1_size": "L0",
+      "variant2_color": "GREY",
+      "stock": 7,
+      "flag_stock_available": true,
+      "package_weight": 244,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCG008",
+      "price_tags": 208000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/BIANCA_KOKO.jpeg",
+      "sku": "BCG00813419",
+      "variant1_size": "L0",
+      "variant2_color": "YELLOW GOLD",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 244,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCG008",
+      "price_tags": 208000,
+      "thumbnails": "",
+      "sku": "BCG00829205",
+      "variant1_size": "L0+",
+      "variant2_color": "GREY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 244,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

@@ -1,0 +1,54 @@
+{
+  "product_id": "BAE042",
+  "name_product": "NK 044",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "NBRS Koko Dewasa",
+  "description": "<p>BAHAN COTTON PRINT</p><p>adalah bahan Polyester, tebal, bertextur motif, adem, hampir sama dengan katun jepang.</p><p><br></p><p>Detail:</p><p>-Full Kancing</p><p>-Saku Depan&nbsp;</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_44.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE042/2406131106-BAE042-2.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_44.jpg",
+  "thumbnails_size_cart": "https://media.nbrscorp.co.id/gudang-online-nibras-web/sizechart/sizepacks_old/non-sarimbit-49-55-koko-nibras.jpg",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "nk-044",
+    "nk-044"
+  ],
+  "meta_slug": "nk-044",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BAE042",
+      "price_tags": 188000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_44.jpg",
+      "sku": "BAE04202303",
+      "variant1_size": "XS",
+      "variant2_color": "CHOCOLATE",
+      "stock": 9,
+      "flag_stock_available": true,
+      "package_weight": 220,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE042",
+      "price_tags": 188000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_44.jpg",
+      "sku": "BAE04202733",
+      "variant1_size": "XS",
+      "variant2_color": "BIRU ELEKTRIK",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 220,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

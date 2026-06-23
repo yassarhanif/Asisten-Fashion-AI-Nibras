@@ -1,0 +1,59 @@
+{
+  "product_id": "BCG011",
+  "name_product": "CARINA KOKO",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "Nibras Sarimbit",
+  "description": "<p>Bahan Ashiva merupakan woven fabric dari benang Rayon dan dikombinasikan dengan bahan Teteron yang membuat bahan ini nyaman dan terasa dingin.</p><p><br></p><p>-Full Kancing</p><p>-Saku Depan</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/CARINA_ARMY_1.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG011/2405310930-BCG011-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG011/2405310930-BCG011-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG011/2405310930-BCG011-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG011/2405310930-BCG011-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG011/2405310930-BCG011-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BCG011/2405310930-BCG011-5.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/CARINA_ARMY_1.jpeg",
+  "thumbnails_size_cart": "https://media.nbrscorp.co.id/gudang-online-nibras-web/sizechart/sizepacks_old/sarimbit-49-55-nsk-koko.jpg",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "carina-koko",
+    "carina-koko"
+  ],
+  "meta_slug": "carina-koko",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BCG011",
+      "price_tags": 178000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/CARINA_ARMY_1.jpeg",
+      "sku": "BCG01102104",
+      "variant1_size": "XS",
+      "variant2_color": "BURGUNDY",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 262,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BCG011",
+      "price_tags": 178000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/CARINA_ARMY_1.jpeg",
+      "sku": "BCG01102146",
+      "variant1_size": "XS",
+      "variant2_color": "ARMY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 262,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

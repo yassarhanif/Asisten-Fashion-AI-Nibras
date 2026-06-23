@@ -1,0 +1,39 @@
+{
+  "product_id": "BAN042",
+  "name_product": "AA 39",
+  "new_product": false,
+  "brand": {
+    "name_brand": "alnita"
+  },
+  "category3": "alnita atasan",
+  "description": "<p> Combed 20s Mix Katun Yarn Dyed</p><p> adalah bahan yang terbuat dari serat alami dan tidak membuat alergi. serta tidak mudah kisut apabila dicuci. adem dan halus.</p><p> </p><p> Detail :</p><p> - Busui Friendly</p><p> - Variasi List</p><p> </p><p> *Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p> *Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/AA_39_NAVY.jpg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/AA_39_NAVY.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "aa-39",
+    "aa-39"
+  ],
+  "meta_slug": "aa-39",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BAN042",
+      "price_tags": 155000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/AA_39_NAVY.jpg",
+      "sku": "BAN04203632",
+      "variant1_size": "S",
+      "variant2_color": "NAVY",
+      "stock": 9,
+      "flag_stock_available": true,
+      "package_weight": 300,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

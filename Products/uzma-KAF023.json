@@ -1,0 +1,111 @@
+{
+  "product_id": "KAF023",
+  "name_product": "UZMA",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Pashmina",
+  "description": "<p>Bahan Sanna, memiliki tekstur seperti babydoll, tetapi lebih elastic dan teksturnya lebih terasa di handfeelnya</p><p><br></p><p>Detail Produk :</p><p>-Size 180x70cm</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-13.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-16.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-17.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-15.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-18.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-14.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-12.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-10.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-8.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-9.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-KAF023-11.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF023/2405290308-thumbnail-KAF023.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "uzma",
+    "uzma"
+  ],
+  "meta_slug": "uzma",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAF023",
+      "price_tags": 55000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/UZMA_PASHMINA_DESKRIPSI.jpeg",
+      "sku": "KAF02300206",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "LIGHT GREY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 148,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAF023",
+      "price_tags": 55000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/UZMA_PASHMINA_DESKRIPSI.jpeg",
+      "sku": "KAF02300348",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "DUSTY TOSCA",
+      "stock": 7,
+      "flag_stock_available": true,
+      "package_weight": 148,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAF023",
+      "price_tags": 55000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/UZMA_PASHMINA_DESKRIPSI.jpeg",
+      "sku": "KAF02300566",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "ROUGE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 148,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAF023",
+      "price_tags": 55000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/UZMA_PASHMINA_DESKRIPSI.jpeg",
+      "sku": "KAF02300574",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "HEDGE GREEN",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 148,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAF023",
+      "price_tags": 55000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/UZMA_PASHMINA_DESKRIPSI.jpeg",
+      "sku": "KAF02300704",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "DUSTY PINK",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 148,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

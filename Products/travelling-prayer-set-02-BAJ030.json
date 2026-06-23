@@ -1,0 +1,91 @@
+{
+  "product_id": "BAJ030",
+  "name_product": "TRAVELLING PRAYER SET 02",
+  "new_product": true,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "Mukena",
+  "description": "<p>Material Bahan Parasut Premium Korea</p><p><br></p><p>Detail Produk :</p><p>- Zipper</p><p>- Tali Clean Finish</p><p>- Tas Mukena</p><p>- Sajadah ini</p><p><span style=\"color: rgb(2, 8, 23);\">- Gradasi Warna</span></p><p>- Tersedia 4 Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103529-BAJ030.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103533-BAJ030.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103536-BAJ030.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103539-BAJ030.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103543-BAJ030.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103547-BAJ030.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103550-BAJ030.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103554-BAJ030.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103558-BAJ030.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103601-BAJ030.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103606-BAJ030-BROWN.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103611-BAJ030-VIOLET.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103617-BAJ030-PURPLE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103621-BAJ030-MOSS%20GREY.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/thumbnail-260227103524-BAJ030.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2026-02-27T03:36:23.767Z",
+  "variants": [
+    {
+      "code_model": "BAJ030",
+      "price_tags": 234000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103606-BAJ030-BROWN.jpeg",
+      "sku": "B2515AJ03000302",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BROWN",
+      "stock": 24,
+      "flag_stock_available": true,
+      "package_weight": 206,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BAJ030",
+      "price_tags": 234000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103611-BAJ030-VIOLET.jpeg",
+      "sku": "B2515AJ03000807",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "VIOLET",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 206,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BAJ030",
+      "price_tags": 234000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103617-BAJ030-PURPLE.jpeg",
+      "sku": "B2515AJ03000905",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "PURPLE",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 206,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "BAJ030",
+      "price_tags": 234000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAJ030/260227103621-BAJ030-MOSS%20GREY.jpeg",
+      "sku": "B2515AJ03000A18",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MOSS GREY",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 206,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

@@ -1,0 +1,87 @@
+{
+  "product_id": "KAO100",
+  "name_product": "INNER CIPUT 003",
+  "new_product": true,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "JINI Ciput",
+  "description": "<p>Material Bahan Rayon</p><p>Detail Produk :</p><p><br></p><p>- Variasi Karet Bagian Belakang</p><p>- Tali dan Detail Lubang Bagian Telinga</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p><br></p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/260417012114-KAO100.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/260417012100-KAO100.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/260417012104-KAO100.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/260417012108-KAO100.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/260417012112-KAO100.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/260417012202-KAO100-CREAM.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/260417012235-KAO100-CREAM.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/260417012240-KAO100-BROKEN%20WHITE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/260417012241-KAO100-BLACK.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/260417012242-KAO100-LIGHT%20GREY.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/thumbnail-260417012055-KAO100.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2026-04-17T06:23:17.896Z",
+  "variants": [
+    {
+      "code_model": "KAO100",
+      "price_tags": 34000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/260417012235-KAO100-CREAM.jpeg",
+      "sku": "K2615AO10000008",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "CREAM",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 50,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO100",
+      "price_tags": 34000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/260417012240-KAO100-BROKEN%20WHITE.jpeg",
+      "sku": "K2615AO10000102",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BROKEN WHITE",
+      "stock": 10,
+      "flag_stock_available": true,
+      "package_weight": 50,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO100",
+      "price_tags": 34000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/260417012241-KAO100-BLACK.jpeg",
+      "sku": "K2615AO10000202",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLACK",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 50,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO100",
+      "price_tags": 34000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO100/260417012242-KAO100-LIGHT%20GREY.jpeg",
+      "sku": "K2615AO10000206",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "LIGHT GREY",
+      "stock": 6,
+      "flag_stock_available": true,
+      "package_weight": 50,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

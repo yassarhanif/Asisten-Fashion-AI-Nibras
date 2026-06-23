@@ -1,0 +1,98 @@
+{
+  "product_id": "BBW001",
+  "name_product": "IR 001",
+  "new_product": false,
+  "brand": {
+    "name_brand": "youth inspire"
+  },
+  "category3": "YINS Rok Dewasa",
+  "description": "<p>Bahan Cigaret</p><p>Mix Serat Kayu</p><p>adalah bahan yang tebal, halus, lembut, polyester, dan bertekstur garis seperti kayu.</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/IR_01_4.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBW001/2405250921-BBW001-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBW001/2405250921-BBW001-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBW001/2405250921-BBW001-7.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/IR_01_4.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "ir-001",
+    "ir-001"
+  ],
+  "meta_slug": "ir-001",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BBW001",
+      "price_tags": 122000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/IR_01_4.jpg",
+      "sku": "BBW00102211",
+      "variant1_size": "XS",
+      "variant2_color": "ABU MUDA",
+      "stock": 19,
+      "flag_stock_available": true,
+      "package_weight": 298,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBW001",
+      "price_tags": 122000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/IR_01_4.jpg",
+      "sku": "BBW00102330",
+      "variant1_size": "XS",
+      "variant2_color": "COKLAT KOPI ",
+      "stock": 18,
+      "flag_stock_available": true,
+      "package_weight": 298,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBW001",
+      "price_tags": 122000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/IR_01_4.jpg",
+      "sku": "BBW00102632",
+      "variant1_size": "XS",
+      "variant2_color": "NAVY",
+      "stock": 4,
+      "flag_stock_available": true,
+      "package_weight": 298,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBW001",
+      "price_tags": 122000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/IR_01_4.jpg",
+      "sku": "BBW00103330",
+      "variant1_size": "S",
+      "variant2_color": "COKLAT KOPI ",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 298,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBW001",
+      "price_tags": 122000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/IR_01_4.jpg",
+      "sku": "BBW00105330",
+      "variant1_size": "L",
+      "variant2_color": "COKLAT KOPI ",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 316,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

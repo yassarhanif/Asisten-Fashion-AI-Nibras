@@ -1,0 +1,81 @@
+{
+  "product_id": "BBM004",
+  "name_product": "ITOP 004",
+  "new_product": false,
+  "brand": {
+    "name_brand": "youth inspire"
+  },
+  "category3": "inspire atasan",
+  "description": "<p> Bahan Katun</p><p> Monoco 40s</p><p> adalah bahan yang halus, ringan, &amp;adem;.</p><p> </p><p> *Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p> *Kesesuaian standard sizepack dengan asli 1-2cm</p><p> </p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITOP_04_2.jpg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITOP_04_2.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "itop-004",
+    "itop-004"
+  ],
+  "meta_slug": "itop-004",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BBM004",
+      "price_tags": 102000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITOP_04_2.jpg",
+      "sku": "BBM00402200",
+      "variant1_size": "XS",
+      "variant2_color": "HITAM",
+      "stock": 5,
+      "flag_stock_available": true,
+      "package_weight": 142,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBM004",
+      "price_tags": 102000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITOP_04_2.jpg",
+      "sku": "BBM00402221",
+      "variant1_size": "XS",
+      "variant2_color": "ABU TUA",
+      "stock": 7,
+      "flag_stock_available": true,
+      "package_weight": 142,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBM004",
+      "price_tags": 102000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITOP_04_2.jpg",
+      "sku": "BBM00402300",
+      "variant1_size": "XS",
+      "variant2_color": "COKLAT",
+      "stock": 8,
+      "flag_stock_available": true,
+      "package_weight": 142,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBM004",
+      "price_tags": 102000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ITOP_04_2.jpg",
+      "sku": "BBM00402713",
+      "variant1_size": "XS",
+      "variant2_color": "MAROON",
+      "stock": 15,
+      "flag_stock_available": true,
+      "package_weight": 142,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

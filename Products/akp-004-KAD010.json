@@ -1,0 +1,100 @@
+{
+  "product_id": "KAD010",
+  "name_product": "AKP 004",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Ciput",
+  "description": "<p>Material Anysa</p><p>Bahan Anysa adalah salahsatu bahan yang terbuat dari benang rajut best quality. Inner bandana ciput rajut ini sangat nyaman saat dikenakan. Bahannya bisa stretch tapi tidak mudah rusak akibat melar. Tidak bikin sakit kuping, tidak bikin kepala pusing dan tidak bergeser meskipun seharian dipakai.</p><p><br></p><p>Detail Produk :</p><p>- Tersedia 5 Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/All.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD010/2405280356-KAD010-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD010/2405280356-KAD010-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD010/2405280356-KAD010-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD010/2405280356-KAD010-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD010/2405280356-KAD010-6.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/All.jpeg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "akp-004",
+    "akp-004"
+  ],
+  "meta_slug": "akp-004",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAD010",
+      "price_tags": 29500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/All.jpeg",
+      "sku": "KAD01000114",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "WHITE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 43,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAD010",
+      "price_tags": 29500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/All.jpeg",
+      "sku": "KAD01000116",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BEIGE",
+      "stock": 8,
+      "flag_stock_available": true,
+      "package_weight": 43,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAD010",
+      "price_tags": 29500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/All.jpeg",
+      "sku": "KAD01000202",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BLACK",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 43,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAD010",
+      "price_tags": 29500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/All.jpeg",
+      "sku": "KAD01000205",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "GREY",
+      "stock": 26,
+      "flag_stock_available": true,
+      "package_weight": 43,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAD010",
+      "price_tags": 29500,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAD010/KAD010-NAVY-undefined.jpeg",
+      "sku": "KAD01000632",
+      "variant1_size": "ALLSIZE",
+      "variant2_color": "NAVY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 43,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 0
+}

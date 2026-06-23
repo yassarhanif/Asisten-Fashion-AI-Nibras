@@ -1,0 +1,43 @@
+{
+  "product_id": "BBC014",
+  "name_product": "ASRI 011",
+  "new_product": false,
+  "brand": {
+    "name_brand": "alnita"
+  },
+  "category3": "alnita setelan sport",
+  "description": "<p> Bahan Combed 20s</p><p> adalah bahan yang adem, menyerap keringat, tidak mudah kusut, &amp;lembut;.</p><p> </p><p> Detail:</p><p> -Lengan Rib</p><p> -Pinggang Celana Full Karet</p><p> -Saku Celana Kiri dan Kanan</p><p> </p><p> *Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p> *Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ASRI_011_L_COKLAT_SUSU_(11).jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ASRI_011_L_COKLAT_SUSU_(8).jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-13_at_11.31_.18_.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-13_at_13.38_.29_.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-13_at_14.43_.34_.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/ASRI_011_L_COKLAT_SUSU_(11).jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "asri-011",
+    "asri-011"
+  ],
+  "meta_slug": "asri-011",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BBC014",
+      "price_tags": 305000,
+      "thumbnails": "\"\"",
+      "sku": "BBC01403911",
+      "variant1_size": "S",
+      "variant2_color": "FANTA PINK",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 660,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

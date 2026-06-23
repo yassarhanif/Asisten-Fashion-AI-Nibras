@@ -1,0 +1,80 @@
+{
+  "product_id": "KAC066",
+  "name_product": "BATIQUE SCARF",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Scarf",
+  "description": "<p>Material Voal</p><p>Bahan hijab voal memiliki tekstur halus dan lembut serat terlihat jelas, memiliki detail bulu-bulu halus, tidak menerawang, adem dan nyaman untuk dipakai.</p><p><br></p><p>Size Hijab 115X115 cm</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-KAC066-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-KAC066-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-KAC066-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-KAC066-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-KAC066-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-KAC066-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-KAC066-9.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-KAC066-8.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-KAC066-10.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-KAC066-11.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-KAC066-12.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-KAC066-13.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-KAC066-14.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-KAC066-15.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAC066/2405290746-thumbnail-KAC066.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "batique-scarf",
+    "batique-scarf"
+  ],
+  "meta_slug": "batique-scarf",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAC066",
+      "price_tags": 65000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/BATIQUE_SCARF_1.jpeg",
+      "sku": "KAC06600302",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BROWN",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 106,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC066",
+      "price_tags": 65000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/BATIQUE_SCARF_1.jpeg",
+      "sku": "KAC06600444",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "FLINT STONE",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 106,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAC066",
+      "price_tags": 65000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/BATIQUE_SCARF_1.jpeg",
+      "sku": "KAC06600996",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "FOREST",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 106,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 25
+}

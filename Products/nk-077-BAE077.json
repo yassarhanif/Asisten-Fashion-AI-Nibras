@@ -1,0 +1,84 @@
+{
+  "product_id": "BAE077",
+  "name_product": "NK 077",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "Nibras Koko Dewasa",
+  "description": "<p>Material Aerio, termasuk kategori kain woven yang terbentuk dari 2 macam benang melalui teknik khusus sehingga menghasilkan efek two-tone color. Permukaan bahan dengan tekstur semacam Linen namun didominasi komposisi Cotton, memiliki daya serap yang baik, anti terawang, serta tidak mudah kusut.</p><p><br></p><p>Detail Produk :</p><p>- Full Kancing</p><p>- Saku Depan</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_077_KHAKI.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE077/2406031136-BAE077-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE077/2406031136-BAE077-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE077/2406031136-BAE077-4.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_077_KHAKI.jpeg",
+  "thumbnails_size_cart": "https://media.nbrscorp.co.id/gudang-online-nibras-web/sizechart/sizepacks_old/non-sarimbit-49-55-koko-nibras.jpg",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "nk-077",
+    "nk-077"
+  ],
+  "meta_slug": "nk-077",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BAE077",
+      "price_tags": 178000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_077_KHAKI.jpeg",
+      "sku": "BAE07702205",
+      "variant1_size": "XS",
+      "variant2_color": "GREY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 200,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE077",
+      "price_tags": 178000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_077_KHAKI.jpeg",
+      "sku": "BAE07702321",
+      "variant1_size": "XS",
+      "variant2_color": "KHAKI ",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 200,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE077",
+      "price_tags": 178000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_077_KHAKI.jpeg",
+      "sku": "BAE07703205",
+      "variant1_size": "S",
+      "variant2_color": "GREY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 200,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE077",
+      "price_tags": 178000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_077_KHAKI.jpeg",
+      "sku": "BAE07703321",
+      "variant1_size": "S",
+      "variant2_color": "KHAKI ",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 200,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

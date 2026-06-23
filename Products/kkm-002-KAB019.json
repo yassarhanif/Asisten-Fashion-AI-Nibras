@@ -1,0 +1,84 @@
+{
+  "product_id": "KAB019",
+  "name_product": "KKM 002",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "Kaos Kaki",
+  "description": "<p>Bahan Nylon Spandek</p><p>Kain nylon merupakan bahan yang ringan, kuat, bersifat elastis dan halus.</p><p><br></p><p>*ALL SIZE*</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAB019/2405290353-KAB019-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAB019/2405290353-KAB019-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAB019/2405290353-KAB019-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAB019/2405290353-KAB019-3.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAB019/2405290353-thumbnail-KAB019.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "kkm-002",
+    "kkm-002"
+  ],
+  "meta_slug": "kkm-002",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAB019",
+      "price_tags": 25000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/KKM_002_LIGHT_PINK_1.jpeg",
+      "sku": "KAB01904146",
+      "variant1_size": "M",
+      "variant2_color": "ARMY",
+      "stock": 455,
+      "flag_stock_available": true,
+      "package_weight": 100,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAB019",
+      "price_tags": 25000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/KKM_002_LIGHT_PINK_1.jpeg",
+      "sku": "KAB01904206",
+      "variant1_size": "M",
+      "variant2_color": "LIGHT GREY",
+      "stock": 119,
+      "flag_stock_available": true,
+      "package_weight": 100,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAB019",
+      "price_tags": 25000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/KKM_002_LIGHT_PINK_1.jpeg",
+      "sku": "KAB01904390",
+      "variant1_size": "M",
+      "variant2_color": "LIGHT PINK",
+      "stock": 83,
+      "flag_stock_available": true,
+      "package_weight": 100,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAB019",
+      "price_tags": 25000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/KKM_002_LIGHT_PINK_1.jpeg",
+      "sku": "KAB01904632",
+      "variant1_size": "M",
+      "variant2_color": "NAVY",
+      "stock": 155,
+      "flag_stock_available": true,
+      "package_weight": 100,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

@@ -1,0 +1,84 @@
+{
+  "product_id": "BBQ001",
+  "name_product": "INSPIRE OUTER 001",
+  "new_product": false,
+  "brand": {
+    "name_brand": "youth inspire"
+  },
+  "category3": "YINS Outer",
+  "description": "<p>Bahan serat kayu adalah bahan yang lembut, bertextur garis seperti kayu, &amp; polyester;.</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-30_at_08.39_.09_.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ001/241125090535-BBQ001.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ001/241125090533-BBQ001.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BBQ001/241125090538-BBQ001.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-30_at_08.39_.09_.jpeg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "inspire-outer-001",
+    "inspire-outer-001"
+  ],
+  "meta_slug": "inspire-outer-001",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BBQ001",
+      "price_tags": 132000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-30_at_08.39_.09_.jpeg",
+      "sku": "BBQ00103211",
+      "variant1_size": "S",
+      "variant2_color": "ABU MUDA",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 286,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBQ001",
+      "price_tags": 132000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-30_at_08.39_.09_.jpeg",
+      "sku": "BBQ00103300",
+      "variant1_size": "S",
+      "variant2_color": "COKLAT",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 286,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBQ001",
+      "price_tags": 132000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-30_at_08.39_.09_.jpeg",
+      "sku": "BBQ00105211",
+      "variant1_size": "L",
+      "variant2_color": "ABU MUDA",
+      "stock": 7,
+      "flag_stock_available": true,
+      "package_weight": 286,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BBQ001",
+      "price_tags": 132000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-09-30_at_08.39_.09_.jpeg",
+      "sku": "BBQ00105632",
+      "variant1_size": "L",
+      "variant2_color": "NAVY",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 286,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

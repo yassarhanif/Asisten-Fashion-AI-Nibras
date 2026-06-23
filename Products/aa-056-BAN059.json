@@ -1,0 +1,41 @@
+{
+  "product_id": "BAN059",
+  "name_product": "AA 056",
+  "new_product": false,
+  "brand": {
+    "name_brand": "alnita"
+  },
+  "category3": "alnita atasan",
+  "description": "<p> Bahan Combed 20s</p><p> </p><p> Detail Produk :</p><p> - Busui Friendly</p><p> - Lengan Manset &amp; Kancing</p><p> - Saku Depan</p><p> - Variasi Tali &amp; List</p><p> </p><p> *Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p> *Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/AA_56_1.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/AA_56.jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/AA_56_2.jpg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/AA_56_1.jpg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "aa-056",
+    "aa-056"
+  ],
+  "meta_slug": "aa-056",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BAN059",
+      "price_tags": 155000,
+      "thumbnails": "\"\"",
+      "sku": "BAN05903641",
+      "variant1_size": "S",
+      "variant2_color": "TURQUOISE",
+      "stock": 5,
+      "flag_stock_available": true,
+      "package_weight": 364,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

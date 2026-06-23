@@ -1,0 +1,55 @@
+{
+  "product_id": "KAI006",
+  "name_product": "SWAROVSKI SYRIA",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "nh khimar instan ii layer",
+  "description": "<p> Bahan High Quality Cerutty adalah bahan yang halus, lembut, elastis, teksturnya seperti kulit jeruk, dan seratnya bergelombang.</p><p> =====</p><p> Detail:</p><p> -double layer</p><p> -size 90x110 cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5659-G-WhatsApp-Image-2017-02-18-at-08.36.30.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5659-COVER-WhatsApp-Image-2017-02-18-at-08.36.21-1.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5659-G-WhatsApp-Image-2017-02-18-at-08.36.23.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5659-G-WhatsApp-Image-2017-02-18-at-08.36.21.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5659-G-WhatsApp-Image-2017-02-18-at-08.36.22.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5659-G-WhatsApp-Image-2017-02-18-at-08.36.20.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5659-G-WhatsApp-Image-2017-02-18-at-08.36.19.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5659-G-WhatsApp-Image-2017-02-18-at-08.36.17.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5659-G-WhatsApp-Image-2017-02-18-at-08.36.181.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5659-G-WhatsApp-Image-2017-02-18-at-08.36.16.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5659-G-WhatsApp-Image-2017-02-18-at-08.36.161.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/SWAROVSKI_KHIMAR_SYRIA_UNGU_MANGGIS_(7).jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/SWAROVSKI_KHIMAR_SYRIA_UNGU_MANGGIS_(13).jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/SWAROVSKI_KHIMAR_SYRIA_(11).jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/SWAROVSKI_KHIMAR_SYRIA_(6).jpg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-07-09_at_14.47_.25_.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/WhatsApp_Image_2019-10-31_at_11.41_.05_(1)_.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/5659-G-WhatsApp-Image-2017-02-18-at-08.36.30.jpeg",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "swarovski-syria",
+    "swarovski-syria"
+  ],
+  "meta_slug": "swarovski-syria",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAI006",
+      "price_tags": 125000,
+      "thumbnails": "\"\"",
+      "sku": "KAI00600700",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MERAH",
+      "stock": 3,
+      "flag_stock_available": true,
+      "package_weight": 100,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

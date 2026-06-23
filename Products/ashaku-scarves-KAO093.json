@@ -1,0 +1,87 @@
+{
+  "product_id": "KAO093",
+  "name_product": "ASHAKU SCARVES",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "NBRS Rayya Series 2026",
+  "description": "<p>Material Bahan Glittering Shimer</p><p>Kain Glittering Shimmer adalah bahan tekstil sintetis (polyester/nylon) dengan permukaan berkilau lembut seperti logam (metallic) dan efek glitter yang memantulkan cahaya. Karakteristiknya mewah, halus, tebal, tidak menerawang, ringan, dan sedikit kaku/melayang. Kain ini populer untuk busana pesta/hijab karena memberikan kesan glamor.&nbsp;</p><p><br></p><p>~ Size 120 x 120 cm</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO093/260128014545-KAO093.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO093/260128014550-KAO093.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO093/260128014555-KAO093.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO093/260128014602-KAO093.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO093/260128014610-KAO093.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO093/260128014620-KAO093.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO093/260128014700-KAO093-LILAC.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO093/260128014707-KAO093-DUSTY%20MAUVE.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO093/260128014714-KAO093-VANILLA.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO093/260128014720-KAO093.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO093/thumbnail-260128014540-KAO093.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2026-01-28T06:47:32.005Z",
+  "variants": [
+    {
+      "code_model": "KAO093",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO093/260128014700-KAO093-LILAC.jpeg",
+      "sku": "K2515AO09300117",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "LILAC",
+      "stock": 15,
+      "flag_stock_available": true,
+      "package_weight": 107,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO093",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO093/260128014714-KAO093-VANILLA.jpeg",
+      "sku": "K2515AO09300408",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "VANILLA",
+      "stock": 27,
+      "flag_stock_available": true,
+      "package_weight": 107,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO093",
+      "price_tags": 139000,
+      "thumbnails": "",
+      "sku": "K2515AO09300A05",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "GREY LILAC",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 107,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO093",
+      "price_tags": 139000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO093/260128014707-KAO093-DUSTY%20MAUVE.jpeg",
+      "sku": "K2515AO09300A11",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "DUSTY MAUVE",
+      "stock": 22,
+      "flag_stock_available": true,
+      "package_weight": 107,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

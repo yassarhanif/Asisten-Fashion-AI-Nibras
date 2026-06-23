@@ -1,0 +1,73 @@
+{
+  "product_id": "KAO084",
+  "name_product": "AS LYDIA SCARVES",
+  "new_product": true,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "NBRS Rayya Series 2026",
+  "description": "<p>Material Bahan Voal Symphony Trypsun</p><p>jenis kain voal premium yang sangat ringan, lembut, dan nyaman dipakai. Kain ini dibuat dengan teknologi Tryspan yang membuatnya tidak mudah kusut dan bisa membentuk \"tetap tegak\" di dahi saat dipakai. Berbeda dengan bahan voal lainnya, Symphony Tryspan memiliki tekstur yang sangat halus, membuat efek jatuh yang bagus, dan sedikit efek kilau yang elegan.&nbsp;</p><p><br></p><p>~ Size 115 x 115 cm</p><p>~ Tersedia 3 Varian Warna</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>**Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO084/260108034003-KAO084.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO084/260108034009-KAO084.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO084/260108034015-KAO084.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO084/260108034038-KAO084.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO084/260108034047-KAO084.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO084/260108034101-KAO084.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO084/260108034109-KAO084.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO084/260108034123-KAO084-MAROON.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO084/260108034128-KAO084-BROWN.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO084/260108034132-KAO084-TEAL.jpeg"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO084/thumbnail-260108033953-KAO084.jpeg",
+  "thumbnails_size_cart": "",
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_slug": null,
+  "created_at": "2026-01-08T08:41:48.454Z",
+  "variants": [
+    {
+      "code_model": "KAO084",
+      "price_tags": 79000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO084/260108034132-KAO084-TEAL.jpeg",
+      "sku": "K2515AO08400153",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "TEAL",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 90,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO084",
+      "price_tags": 79000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO084/260108034128-KAO084-BROWN.jpeg",
+      "sku": "K2515AO08400302",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "BROWN",
+      "stock": 22,
+      "flag_stock_available": true,
+      "package_weight": 90,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    },
+    {
+      "code_model": "KAO084",
+      "price_tags": 79000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAO084/260108034123-KAO084-MAROON.jpeg",
+      "sku": "K2515AO08400713",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "MAROON",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 90,
+      "package_width": null,
+      "package_length": null,
+      "package_height": null
+    }
+  ],
+  "diskon_product": 0
+}

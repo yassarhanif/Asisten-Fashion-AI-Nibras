@@ -1,0 +1,117 @@
+{
+  "product_id": "KAE038",
+  "name_product": "STARLA PAD 7",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Bergo",
+  "description": "<p><span style=\"color: rgb(96, 96, 96);\">Bahan PE Premium Europe Technology</span></p><p><span style=\"color: rgb(96, 96, 96);\">adalah bahan yang halus, lembut, dan adem.</span></p><p><br></p><p><span style=\"color: rgb(96, 96, 96);\">Variasi Schoder Depan</span></p><p><br></p><p><span style=\"color: rgb(96, 96, 96);\">lebar muka : 25,5cm</span></p><p><br></p><p><span style=\"color: rgb(96, 96, 96);\"><span class=\"ql-cursor\">ï»¿</span>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</span></p><p><span style=\"color: rgb(96, 96, 96);\">**Kesesuaian standard sizepack dengan asli 1-2cm</span></p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE038/2406110133-KAE038-8.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE038/2406110133-KAE038-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE038/2406110133-KAE038-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE038/2406110133-KAE038-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE038/2406110133-KAE038-10.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE038/2406110133-KAE038-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE038/2406110133-KAE038-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE038/2406110133-KAE038-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE038/2406110133-KAE038-9.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAE038/2406110133-thumbnail-KAE038.webp",
+  "thumbnails_size_cart": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/sizechart/JINI%20STARLA/1718087558109-sizechart-img-JINI%20STARLA.webp",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "starla-pad-7",
+    "starla-pad-7"
+  ],
+  "meta_slug": "starla-pad-7",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAE038",
+      "price_tags": 61000,
+      "thumbnails": "\"\"",
+      "sku": "KAE03803303",
+      "variant1_size": "S",
+      "variant2_color": "CHOCOLATE",
+      "stock": 7,
+      "flag_stock_available": true,
+      "package_weight": 176,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAE038",
+      "price_tags": 61000,
+      "thumbnails": "\"\"",
+      "sku": "KAE03803620",
+      "variant1_size": "S",
+      "variant2_color": "BABY BLUE",
+      "stock": 2,
+      "flag_stock_available": true,
+      "package_weight": 176,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAE038",
+      "price_tags": 61000,
+      "thumbnails": "\"\"",
+      "sku": "KAE03803727",
+      "variant1_size": "S",
+      "variant2_color": "LEMON",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 176,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAE038",
+      "price_tags": 61000,
+      "thumbnails": "\"\"",
+      "sku": "KAE03803751",
+      "variant1_size": "S",
+      "variant2_color": "BABY PINK",
+      "stock": 1,
+      "flag_stock_available": true,
+      "package_weight": 176,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAE038",
+      "price_tags": 61000,
+      "thumbnails": "\"\"",
+      "sku": "KAE03803903",
+      "variant1_size": "S",
+      "variant2_color": "MAGENTA",
+      "stock": 4,
+      "flag_stock_available": true,
+      "package_weight": 176,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAE038",
+      "price_tags": 64000,
+      "thumbnails": "\"\"",
+      "sku": "KAE03804620",
+      "variant1_size": "M",
+      "variant2_color": "BABY BLUE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 194,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 20
+}

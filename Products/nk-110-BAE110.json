@@ -1,0 +1,109 @@
+{
+  "product_id": "BAE110",
+  "name_product": "NK 110",
+  "new_product": false,
+  "brand": {
+    "name_brand": "nbrs"
+  },
+  "category3": "Nibras Koko Dewasa",
+  "description": "<p>Material Intrarami Rayon</p><p><br></p><p>Detail Produk :</p><p>- Full Kancing</p><p>- Saku Depan</p><p>- Lengan Pendek</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_110_BABY_BLUE_1.jpeg",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE110/2405290237-BAE110-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE110/2405290237-BAE110-16.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE110/2405290237-BAE110-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE110/2405290237-BAE110-9.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE110/2405290237-BAE110-10.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE110/2405290237-BAE110-14.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE110/2405290237-BAE110-13.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE110/2405290237-BAE110-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE110/2405290237-BAE110-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE110/2405290237-BAE110-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE110/2405290237-BAE110-11.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE110/2405290237-BAE110-12.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE110/2405290237-BAE110-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/BAE110/2405290237-BAE110-17.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_110_BABY_BLUE_1.jpeg",
+  "thumbnails_size_cart": "https://media.nbrscorp.co.id/gudang-online-nibras-web/sizechart/sizepacks_old/non-sarimbit-49-55-koko-nibras.jpg",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "nk-110",
+    "nk-110"
+  ],
+  "meta_slug": "nk-110",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "BAE110",
+      "price_tags": 188000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_110_BABY_BLUE_1.jpeg",
+      "sku": "BAE11002302",
+      "variant1_size": "XS",
+      "variant2_color": "BROWN",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 237,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE110",
+      "price_tags": 188000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_110_BABY_BLUE_1.jpeg",
+      "sku": "BAE11002404",
+      "variant1_size": "XS",
+      "variant2_color": "YELLOW",
+      "stock": 17,
+      "flag_stock_available": true,
+      "package_weight": 237,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE110",
+      "price_tags": 188000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_110_BABY_BLUE_1.jpeg",
+      "sku": "BAE11002632",
+      "variant1_size": "XS",
+      "variant2_color": "NAVY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 237,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE110",
+      "price_tags": 188000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_110_BABY_BLUE_1.jpeg",
+      "sku": "BAE11003404",
+      "variant1_size": "S",
+      "variant2_color": "YELLOW",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 237,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "BAE110",
+      "price_tags": 200000,
+      "thumbnails": "https://nibras-web.sgp1.digitaloceanspaces.com/gon-old/NK_110_BABY_BLUE_1.jpeg",
+      "sku": "BAE11007632",
+      "variant1_size": "XXL",
+      "variant2_color": "NAVY",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 273,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

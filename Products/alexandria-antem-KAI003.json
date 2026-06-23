@@ -1,0 +1,51 @@
+{
+  "product_id": "KAI003",
+  "name_product": "ALEXANDRIA ANTEM",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Khimar",
+  "description": "<p><span style=\"color: rgb(96, 96, 96);\">High Quality Cerutty</span></p><p><span style=\"color: rgb(96, 96, 96);\">adalah bahan yang halus, lembut, elastis, tekstur seperti kulit jeruk,&amp; seratnya bergelombang.</span></p><p><br></p><p><span style=\"color: rgb(96, 96, 96);\">Detail:</span></p><p><span style=\"color: rgb(96, 96, 96);\">-Pad Tipis Antem</span></p><p><span style=\"color: rgb(96, 96, 96);\">-Belah Depan Double Layer</span></p><p><span style=\"color: rgb(96, 96, 96);\">-size 90x110 cm</span></p><p><br></p><p><span style=\"color: rgb(96, 96, 96);\">*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</span></p><p><span style=\"color: rgb(96, 96, 96);\">**Kesesuaian standard sizepack dengan asli 1-2cm</span></p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI003/2406130151-KAI003-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI003/2406130151-KAI003-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI003/2406130151-KAI003-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI003/2406130151-KAI003-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI003/2406130151-KAI003-8.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI003/2406130151-KAI003-9.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI003/2406130151-KAI003-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI003/2406130151-KAI003-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI003/2406130151-KAI003-10.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI003/2406130151-KAI003-11.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI003/2406130151-KAI003-12.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI003/2406130151-KAI003-13.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI003/2406130151-KAI003-14.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAI003/2406130151-thumbnail-KAI003.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "alexandria-antem",
+    "alexandria-antem"
+  ],
+  "meta_slug": "alexandria-antem",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAI003",
+      "price_tags": 125000,
+      "thumbnails": "\"\"",
+      "sku": "KAI00300682",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "TOSCA",
+      "stock": 7,
+      "flag_stock_available": true,
+      "package_weight": 300,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}

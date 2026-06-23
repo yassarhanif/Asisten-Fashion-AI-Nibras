@@ -1,0 +1,112 @@
+{
+  "product_id": "KAF026",
+  "name_product": "FULMALA PASHMINA",
+  "new_product": false,
+  "brand": {
+    "name_brand": "jilbab nibras"
+  },
+  "category3": "JINI Pashmina",
+  "description": "<p>Bahan Sanna, memiliki tekstur seperti babydoll, tetapi lebih elastic dan teksturnya lebih terasa di handfeelnya</p><p><br></p><p>Tepi Lasercut</p><p>Size : 180 x 70cm</p><p><br></p><p>*Kesesuaian foto dan asli 90 - 100% dipengaruhi faktor cahaya pemotretan, editing dan resolusi cahaya hp masing-masing</p><p>*Kesesuaian standard sizepack dengan asli 1-2cm</p>",
+  "thumbnails": [
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-2.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-3.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-5.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-4.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-7.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-8.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-15.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-6.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-16.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-14.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-11.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-17.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-19.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-12.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-18.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-13.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-10.webp",
+    "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-KAF026-9.webp"
+  ],
+  "thumbnails_main": "https://nibras-web.sgp1.digitaloceanspaces.com/gudang-online-nibras-web/products/KAF026/2405290138-thumbnail-KAF026.webp",
+  "thumbnails_size_cart": "\"\"",
+  "meta_description": "\"\"",
+  "meta_keywords": [
+    "fulmala-pashmina",
+    "fulmala-pashmina"
+  ],
+  "meta_slug": "fulmala-pashmina",
+  "created_at": "2024-05-16T05:01:30.490Z",
+  "variants": [
+    {
+      "code_model": "KAF026",
+      "price_tags": 65000,
+      "thumbnails": "\"\"",
+      "sku": "KAF02600146",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "ARMY",
+      "stock": 6,
+      "flag_stock_available": true,
+      "package_weight": 134,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAF026",
+      "price_tags": 65000,
+      "thumbnails": "\"\"",
+      "sku": "KAF02600227",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "DECO ROSE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 134,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAF026",
+      "price_tags": 65000,
+      "thumbnails": "\"\"",
+      "sku": "KAF02600348",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "DUSTY TOSCA",
+      "stock": 33,
+      "flag_stock_available": true,
+      "package_weight": 134,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAF026",
+      "price_tags": 65000,
+      "thumbnails": "\"\"",
+      "sku": "KAF02600566",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "ROUGE",
+      "stock": 0,
+      "flag_stock_available": false,
+      "package_weight": 134,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    },
+    {
+      "code_model": "KAF026",
+      "price_tags": 65000,
+      "thumbnails": "\"\"",
+      "sku": "KAF02600574",
+      "variant1_size": "ALL SIZE",
+      "variant2_color": "HEDGE GREEN",
+      "stock": 26,
+      "flag_stock_available": true,
+      "package_weight": 134,
+      "package_width": 0,
+      "package_length": 0,
+      "package_height": 0
+    }
+  ],
+  "diskon_product": 30
+}
